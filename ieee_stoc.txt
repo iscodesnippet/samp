@@ -1386,6 +1386,7 @@ https://chinese.engadget.com/2019/10/25/arm-huawei-chipset-designs/
 → kljjc       : 構                                                10/26 01:28
 推 mmnnoo      : ARM能怎麼改？                                     10/26 01:43
 → ericjaing   : 4樓指的是發展紅萌arm嗎？                          10/26 04:58
+噓 soyghcg     : 晚了 大概會轉RISC-V                               10/26 05:27
 
 
 --------------------------------------------------------
