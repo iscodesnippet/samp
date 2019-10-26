@@ -743,6 +743,9 @@ https://www.tsmc.com/chinese/dedicatedFoundry/technology/logic.htm
 → kuma660224  : 除了性能還得看功耗，那是AMD優勢                   10/27 02:59
 → kuma660224  : 7nm出來，即使效能沒贏的，也省電多了               10/27 03:00
 噓 HenryLin123 : 啊所以threadripper咧 三代要出囉                   10/27 03:00
+噓 HenryLin123 : 兩個晶片大小也不是同一個等級的 大人打小孩打好爽   10/27 03:03
+噓 HenryLin123 : i7 R7差不多 真會說 其實R9 3900X 是命名問題 拿i9   10/27 03:09
+→ HenryLin123 : 打真的天才                                        10/27 03:09
 
 
 --------------------------------------------------------
