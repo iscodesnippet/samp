@@ -1,105 +1,3 @@
- 作者  tipsofwarren (tipsofwarren)                                看板  Stock 
- 標題  [心得] 認養者奪門而出, ANET 流湯悲鳴                                   
- 時間  Sat Nov  2 08:09:44 2019                                               
-───────────────────────────────────────
-
-
-
-標的: ANET  (智邦概念股???)
-
-經營概述
-Arista Networks, Inc.(ANET.US)以雲端為基礎提供大型數據中心
-及高效能計算環境解決方案，產品包含1/10/40和100GbE，
-公司的核心平台為可擴充的操作系統(EOS)，
-可整合多個硬體平台，
-並透過核心架構提供不中斷服務升級和擴充其應用。
-產業地位
-美國雲端網路解決方案供應商，
-致力於網路交換器開發與銷售
-
-昨日大崩盤, 收盤跌幅 -25%, 盤中最深 -30%
-這價格已經將公司一棒打回到 2017/9, 等於從 180 --> 330 打了兩年手槍,
-昨天噴出第一灘 (有帶血)
-
-On Wall Street, bulls crowded each other in heading
-to the sidelines. KeyBanc, Needham, Oppenheimer
-and Stifel all downgraded to Neutral-equivalent ratings.
-
-(反正就是多頭瘋狂爭先恐後降評該股)
-
-主因是 FB 暫停 訂單吧
-
-心得:
-美股漲跌有序, 有利空絕對一次給你爽, 所以建議以買 流動性高, 穩定度高的 ETF 為主.
-事實上, ANET 是一家很有競爭力的公司, 可是要用好的價格, 讓那些垃圾畜生認養的
-基金經理人停損殺出我們再來接便宜貨.
-
-
-
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.162.166.148 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1572653386.A.18F.html
-※ 編輯: tipsofwarren (1.162.166.148 臺灣), 11/02/2019 08:13:54
-推 polarsnow   : 感謝分享                                          11/02 08:15
-推 threeSecGun : 微軟和FB 是主要的兩大客戶                         11/02 08:26
-→ threeSecGun : 公司只承認 某客戶暫停訂單 並未說明是哪一家        11/02 08:29
-→ threeSecGun : 也有預測 因微軟標到五角大廈 明年會有ANET採購需求  11/02 08:30
-你可以去參考昨日的 CC:
-
-Jayshree Ullal (ANET CEO):
-
-Alex, that’s a very good question. From our perspective,
-the competitive dynamics have not changed in the cloud or in general.
-We always have aggressive competition and we will continue to
-see aggression there. But, what gives us confidence,
-the cloud titans are delaying their spend or distributing their CapEx
-differently is as you know we always pride ourselves in
-close partnership and relationship with cloud titans.
-And generally, especially in the case of Facebook and Microsoft,
-they’ve been not only a vendor customer relationship
-but really a co-development that requires the kind of
-partnership which is engineering to engineering,
-not just business. So, when you look at that, there is no evidence
-that competitively or white box wise, there has been any change.
-There has been process change. There is better inventory management,
-there is better procurement, optimization et cetera.
-And you can always expect these cloud customers want to be
-multi-sourced but it isn’t any different than we’ve
-seen in the past in behavior, relationship, in art, innovation.
-We have 10 400-gig products and a lot of them are in trials.
-So, relationship and the technology partnership couldn’t be better.
-Anshul, do you want to add to that.
-
-上文我就不翻譯了, FB/MSFT 各自推遲 CapEx 有不同的原因,
-CEO 話鋒一轉突然開始談自家公司的競爭力 (和客戶關係極佳,
-不是只有買賣關係, 還有 co-development, 白牌的擔憂是多餘的 blablabla)
-
-老練的投資人看到這兒, 應該會替這公司的股東擔心吧!
-白牌, 看到沒有... 換句話說, 當 AMZN/MSFT/FB/GOOG 開始要增加 Cloud CapExp,
-另外一手就是回頭向供應商擺姿態故意遞延訂單, 目的就是要 砍價呀!
-然後那些 Cloud Titans 也會開始去找白牌, 眾所周知, ANET 就是靠 EOS 在強!
-EOS 還是 Linux base, 媽的那些大公司玩 Linux 會輸給你???
-
-總之白牌開始成為正式的壓力, 接下來 ANET 不急著買啦!
-
-受益者: AMD (Cloud 就是要越多 cores 越好), MTK (白牌概念, 高階 switch 應該
-屌打 專打低階自豪的螃蟹, 加上和 CSCO 練功多年, 網通正一哥), TSMC (廢話,
-CapEX 大增, 只此一家別無分號)
-
-
-
-※ 編輯: tipsofwarren (1.162.166.148 臺灣), 11/02/2019 08:45:29
-→ walelile    : 發哥switch子公司拆掉了吧                          11/02 09:19
-推 s860134     : 有建議進出場嗎                                    11/02 09:34
-→ s860134     : 喔喔　　看到了回推文內容比正文多XD                11/02 09:35
-推 rtwodtwo    : 白牌伺服器 廣達 緯穎 英業達                       11/02 09:58
-推 Realite     : 歐硬智邦                                          11/02 10:02
-
-
---------------------------------------------------------
-
-
  作者  cute320518 (cute320518)                                    看板  Stock 
  標題  [新聞] 道瓊大漲300點！就業數據亮眼…美股2指數                          
  時間  Sat Nov  2 08:42:21 2019                                               
@@ -346,6 +244,9 @@ https://ec.ltn.com.tw/article/breakingnews/2964752
 → silosilo    : 手續費好貴                                        11/02 13:26
 → Capufish    : 小資可以買00646，但追蹤效果比較差，能接受就OK     11/02 13:28
 推 tswen       : 可以等富邦出新的標普etf 管理費應該會比較低        11/02 15:14
+推 tsgd        : 如果是小資 我想不妨先累積金額  複委一年買進一次   11/02 16:57
+→ tsgd        : 如果定期定額 先看看富邦未來出的標普看看           11/02 16:58
+→ tsgd        : 元大00646非常不OK                                 11/02 16:58
 
 
 --------------------------------------------------------
@@ -837,6 +738,7 @@ https://i.imgur.com/2mLztjI.jpg
 噓 ckcck       : 類似文章兩年前就一堆了！                          11/02 15:02
 推 ww          : 這跟未來一百年會有超過60億人口死亡的新聞一樣無聊  11/02 16:44
 → ww          : 到期就借利率更低的新債還舊債 減少利息根本更爽     11/02 16:46
+→ hb0922      : 印鈔機殘殘給他開下去就好啦！ 反正全球買單啊       11/02 17:00
 
 
 --------------------------------------------------------
@@ -1026,6 +928,8 @@ Graham 是誰? 巴菲特的老師啦…
 → Capufish    : 幸好還沒虧錢，等明年開放盤中零股，再來組0030看看  11/02 16:15
 推 telnet0512  : 忍不住亮書單跟報酬了 再存十年ETF期待你分享成果    11/02 16:20
 推 Capufish    : 沒問題啊，股版新手發問文沒刪就是等日後驗證        11/02 16:21
+推 SweetLee    : 我想問的是 c大那張表 是不是以等權重計算的而非市   11/02 16:55
+→ SweetLee    : 值權重計算的？                                    11/02 16:55
 
 
 --------------------------------------------------------
@@ -1168,9 +1072,14 @@ https://imgur.com/cLhSvcF
 
 強轉弱、弱轉強的時候都有它的"過程"，我是覺得就也只能眼見為憑
 
+個股要跟大盤比、個股要跟領頭羊表現比之類的...如果單看個股我也是看不出什麼
+
+總之，一切皆相對
+
 以上最後一次回應
 ※ 編輯: ackdpe0776 (118.232.143.158 臺灣), 11/02/2019 16:48:04
 推 madboy      : 這篇好                                            11/02 16:46
+※ 編輯: ackdpe0776 (118.232.143.158 臺灣), 11/02/2019 16:51:47
 
 
 --------------------------------------------------------
@@ -1287,6 +1196,9 @@ https://img.ltn.com.tw/Upload/business/page/800/2019/11/02/2965226_1.jpg
 推 newstarisme : 從300到350也才11.6%                               11/02 16:37
 噓 kazamishu   : 慘了 要崩                                         11/02 16:38
 → clusis      : 越過300，以後腳步就牛皮了。                       11/02 16:38
+推 tamama000   : 反觀其一堆牛皮股真的拖                            11/02 16:52
+噓 ENCOREH33456: 配這麼少= =                                       11/02 16:52
+→ Alwen       : 台積電不可能再回去那個整理區間了                  11/02 16:57
 
 
 --------------------------------------------------------
@@ -1629,6 +1541,7 @@ AMD 跟TQQQ穩穩抱住就對了
 噓 lovela33    : 有完沒完阿                                        11/02 16:48
 推 EthanWake   : TQQQ是啥                                          11/02 16:49
 → tamama000   : QQ感覺就很不吉利QQ                                11/02 16:50
+→ moss18      : 三倍作多nasdaq                                    11/02 16:51
 
 
 --------------------------------------------------------
@@ -1655,6 +1568,72 @@ AMD 跟TQQQ穩穩抱住就對了
 推 ww          : 如果他們沒做空的話 應該還活的好好的阿             11/02 16:49
 推 tamama000   : 可是萬點還是很多禁平盤以下 怎麼回事               11/02 16:49
 推 chduck      : 買黃金等對岸武統，身邊真的有這種人                11/02 16:49
+→ Barrel      : 所以上面有一篇300萬本金已經-50%了                 11/02 16:51
+→ JuiFu617    : 我全家都是買台gg存股，所以大盤對我沒影響          11/02 16:52
+推 bbdsdong    : 抱歉～就我這個白痴笨蛋還在跟人家做多              11/02 16:57
+→ bbdsdong    : https://i.imgur.com/Ga84EHq.jpg                   11/02 16:57
+推 hb0922      : 最有名的就唬爛姊的「死貓跳」之說啊XDDD            11/02 16:57
+→ hb0922      : 結果這一跳就跳了1300點...姊果然很會X喇叭          11/02 16:58
+推 loveponpon  : 唬爛f姐在這裡被當神在拜勒                         11/02 16:58
+推 JuiFu617    : 可是fj也是有大賺過，也不能說是反指標              11/02 16:59
+→ JuiFu617    : 股票市場不可能把把都贏吧                          11/02 16:59
+推 f204137     : 這些人手上通常有50反 均價17~18以上                11/02 17:01
+推 hb0922      : 欸欸 沒禮貌，我可沒指名道姓啊！ 自由心證嘿        11/02 17:02
+→ kid014028   : https://i.imgur.com/sYObztl.jpg                   11/02 17:02
+→ f204137     : 什麼叫當神在拜 是人就會說錯話啊                   11/02 17:03
+
+
+--------------------------------------------------------
+
+
+ 作者  mike110100 (羊羊)                                          看板  Stock 
+ 標題  Re: [請益] 為什麼我都是賠錢                                            
+ 時間  Sat Nov  2 16:53:07 2019                                               
+───────────────────────────────────────
+
+7年存300萬
+
+正常來說
+
+你的年薪少說快百萬吧
+
+代表你在這個社會上的位置還在約均值之上
+
+也算是個人物
+
+會輸50趴
+
+表示你看待股票的角度需要有一點變動
+
+股票很簡單
+
+1.買低賣高
+
+新聞上的資訊看看就好
+新聞上的資訊看看就好
+新聞上的資訊看看就好
+
+一堆人（散戶）去的地方容易倒
+
+推薦一檔大家（新聞媒體）都不看好
+
+但是獲利穩定
+
+歷史上相對低價的股給你參考
+
+：1227 佳格
+
+不用謝了
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.141.156.209 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1572684789.A.67F.html
+※ 編輯: mike110100 (223.141.156.209 臺灣), 11/02/2019 16:54:31
+※ 編輯: mike110100 (223.141.156.209 臺灣), 11/02/2019 16:55:33
+推 SweetLee    : 你知道1227歷史低點多少嗎？這裡應該沒幾個人抱到過  11/02 16:57
+→ YAYA6655    : 佳格不錯阿，以前我買40跌到剩下7，後來解套了       11/02 16:58
+推 DaringDo    : 我都買桂格  比較健康                              11/02 17:00
+→ cinderchou  : 歷史上相對低價 笑了                               11/02 17:01
 
 
 --------------------------------------------------------
