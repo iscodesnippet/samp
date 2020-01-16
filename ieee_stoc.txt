@@ -1,68 +1,3 @@
- 作者  tsng (Gnst)                                                看板  Stock 
- 標題  [新聞] 英特爾處理器缺貨到年底 超出預期                                 
- 時間  Thu Jan 16 19:02:14 2020                                               
-───────────────────────────────────────
-
-1.原文連結：
-https://bit.ly/2suuxhP
-2.原文內容：
-仁寶總座翁宗斌：英特爾處理器缺貨到年底 超出預期
-2020-01-16 16:43
-〔記者卓怡君/台北報導〕
-
-英特爾處理器缺貨一直未能解決，衝擊全球PC與NB產業步調，
-仁寶（2324）總經理翁宗斌今日更說，預計英特爾缺貨狀況將一直到年底，超乎業界每個
-人的預期，因此，仁寶保守看待今年筆記型電腦出貨，估計和去年出貨持平。
-
-　翁宗斌表示，面對英特爾缺貨，目前只能保守看待筆記型電腦出貨量，但仁寶以高階機
-種居多，會持續加強高階機種比重，提升獲利。
-
-　英特爾缺貨問題持續干擾電腦業者，翁宗斌指出，最近CES展剛結束，大家看法都不同
-，根據IDC預估，去年NB出貨成長2.8%，今年恐衰退5%，因英特爾處理器缺貨影響出貨動
-能，對今年仁寶NB出貨保守以對。
-
-3.心得/評論：
-
-雖然是因為新製程良率提升不易,而造成的缺貨.
-一直持續下去,就會有可能因為供不應求的情形而漲價吧!
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.241.215.220 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1579172537.A.936.html
-推 mistel      : 723都跟你各位說改用AMD了                          01/16 19:05
-推 JuiFu617    : 牙膏廠還不快找台gg代工                            01/16 19:07
-→ JuiFu617    : AMD yes                                           01/16 19:07
-→ MintSu      : 現在才一月                                        01/16 19:08
-推 nychang     : 某種程度這也是飢餓行銷                            01/16 19:11
-→ C13H16ClNO  : 14nm++++++++++                                    01/16 19:12
-→ Karida      : 學國巨的陳董齁!                                   01/16 19:15
-推 Adrian      : 改amd很難嘛                                       01/16 19:37
-推 f204137     : 仁寶金控                                          01/16 19:45
-推 Busufu      : 囤cpu當期貨賣吧                                   01/16 19:49
-→ jior        : 現在就要缺到年底.....                             01/16 19:50
-推 meloxxl     : 你還有AMD可以賣啊                                 01/16 19:53
-推 shinfaang   : 缺CPU不缺AMD的 QQ                                 01/16 20:09
-推 cosmite     : 再不找GG拉貨 市占就要被AMD吃掉惹                  01/16 20:19
-推 housemance  : 賣內褲，買仁寶                                    01/16 20:54
-推 mmnnoo      : 等APU一出來，大概要橫掃市場了                     01/16 20:55
-→ jerrychuang : AMD飛天了                                         01/16 21:39
-→ viodin      : 上次記得哪個用缺貨當下跌的理由...                 01/16 21:52
-→ viodin      : 都給你們說就好                                    01/16 21:52
-→ e123456ddd  : 品牌端就是不想用AMD啊這個ODM沒決定權吧            01/16 22:00
-推 tenghui     : 仁寶金控19以下買風險低 17以下應該能買多少算多少   01/16 22:02
-推 hsu09952130 : 仁寶金控買起來！                                  01/16 22:22
-推 lk2986706we : 18以下就會有人開始說16收15收                      01/16 22:29
-推 yuichanprpr : 可是intel10代筆電有得買 AMD Zen2筆電還不見影子啊  01/16 22:39
-→ yuichanprpr : 啊 被排擠哭哭                                     01/16 22:39
-推 kakuson     : 看好仁寶穿戴及手持式持續創高....                  01/16 23:30
-推 Chrkamp     : 公平會上去查查是不是壟斷行為                      01/16 23:36
-→ Chrkamp     : 罰他個300億美金,買f16的錢都有找了                 01/16 23:37
-推 cscpony     : 還不快下來17讓我撿爆？                            01/17 00:01
-
-
---------------------------------------------------------
-
-
  作者  switch (pura vita!)                                        看板  Stock 
  標題  [新聞] 福斯可望在2030年以前成為最大電動車廠                            
  時間  Thu Jan 16 19:10:05 2020                                               
@@ -517,6 +452,7 @@ https://i.imgur.com/byEJEXj.jpg
 推 sunalmon    : Xbox.PS5都是AMD啊 但也都是2330生產                01/17 01:29
 推 CSLsong     : 真的AMD 台gg都會賺錢～                            01/17 01:42
 → tellmetruth : 雖然大家都推台GG 可是ps5熱賣應該不會帶動股價吧    01/17 02:40
+推 chaoliu     : 等PS5詳細資料出來再說吧                           01/17 06:45
 
 
 --------------------------------------------------------
@@ -961,6 +897,7 @@ http://bit.ly/2tr5a0C
 → semicoma    : 誰能想到伊朗會把自己人射下來呢? 如果是火鳳燎原那  01/17 02:37
 → semicoma    : 種鬼扯 就會說那個空軍司令是在下一盤很大的棋促成   01/17 02:37
 → semicoma    : 神權政府垮台 呵呵 誰知道呢?                       01/17 02:37
+推 okah        : 伊朗人真的受不了高壓生活了誰跟你被煽動            01/17 07:04
 
 
 --------------------------------------------------------
@@ -1151,6 +1088,8 @@ https://youtu.be/SGqS1oRan0E
 推 SweetLee    : 所以重點應該是開董事會能不能帶律師進去            01/17 02:40
 推 skery3188   : 嘴巴說上樓但就是不讓你過                          01/17 04:51
 推 ycl1999     : 富人的後代子孫連續劇                              01/17 05:40
+推 hanslins    : 只有我覺得張國瑋是故意放棄長榮的嗎？他想到自幹一  01/17 06:57
+→ hanslins    : 場而不是面對兄弟鬧場！反正無論如何餓不死          01/17 06:57
 
 
 --------------------------------------------------------
@@ -1306,6 +1245,7 @@ https://www.chinatimes.com/realtimenews/20200116003933-260410?chdtv
 推 Rin5566     : 推  打臉94爽                                      01/17 01:33
 噓 QazBank     : 一行文??                                          01/17 01:35
 推 zer0319     : 兇                                                01/17 02:12
+噓 IanLi       : 水桶文                                            01/17 06:58
 
 
 --------------------------------------------------------
@@ -1564,6 +1504,7 @@ FH香港正2
 推 whitedashug : 感謝整理                                          01/17 01:53
 推 wade00123   : 感謝整理                                          01/17 06:04
 推 laicking    : 本版每年最實用的資訊之一，感謝整理                01/17 06:42
+推 madboy      : 好 推                                             01/17 06:56
 
 
 --------------------------------------------------------
@@ -1600,6 +1541,79 @@ FH香港正2
 → jones2011   : 那過年前對岸的豬價這時早該破60了                  01/17 06:31
 推 cckkyle     : 你去查查非洲豬瘟 傳染力在來說484只影響短期 14億   01/17 06:38
 → cckkyle     : 人吃不到豬肉有沒有事                              01/17 06:38
+→ MintSu      : 對西台灣的人來說主要是吃豬肉有面子。              01/17 07:07
+
+
+--------------------------------------------------------
+
+
+ 作者  switch (pura vita!)                                        看板  Stock 
+ 標題  [新聞] 特斯拉持續對燃油豪華轎車市場造成重擊                            
+ 時間  Fri Jan 17 06:58:55 2020                                               
+───────────────────────────────────────
+
+1.原文連結：
+
+https://bit.ly/2R1cdGD
+
+2.原文內容：
+
+
+Tesla Model 3 is disrupting the luxury sedan market at an unprecedented rate.
+A compilation of historical sales data for top ten best selling luxury sedans
+in the US has revealed the extent of disruption in this segment.
+
+https://i.imgur.com/qjXZVgq.png
+
+A sudden downward shift in all the vehicles can be clearly seen in the chart
+after mass production of Tesla Model 3 kicked off in 2018. The downtrend is
+further extended in 2019.
+
+Sales Growth 2017-2019
+Since we are investigating the impact of Tesla on ICE market, a comparison
+between 2017 sales (which is the preceding year of Model 3’s mass
+production) and 2019 should reveal the true extent of impediment to the
+growth rate of luxury sedans.
+
+特斯拉 Model3  正以史無前例的速度重創燃油豪華轎車市場。美國的銷售數據
+顯示 Model 3 在 2018年量產後，前10大豪華車系的銷售均遭到衝擊且跌勢延伸
+到 2019年，其中只有 Lexus EX 幾乎不受影響。
+
+美國前十大豪華車系 2017-2019 年的銷售成長率：
+
+BMW 4-Series (-53%)
+
+Mercedes-Benz C-Class (-37%)
+
+Infiniti Q50 (-36%)
+
+Acura TLX (-24%)
+
+Audi A4/S4 (-23%)
+
+Mercedes-Benz E-Class (-21%)
+
+BMW 3 Series (-20%)
+
+BMW 5-Series (-5%)
+
+Lexus ES (-0.12%)
+
+
+3.心得/評論：
+※必需填寫滿20字
+
+Tesla (TSLA) 股價在創新高的 547.41 後連續第二天下跌，收 513.49。
+仍為全世界市值第三高車廠 (931.7億美元)，市值第二的車廠為福斯(1015.4億)。
+
+2019 年中曾警告 Tesla 股價有可能跌到僅 10美元的小摩 (Morgan Stanley)
+Jan.16 發布新報告，將 TSLA 評級由中立 (equal-weight) 調降為低於大盤
+(under-weight)，目標價由 250 調升為 350。
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.163.238.91 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1579215538.A.FFF.html
+推 PorscheAG   : BMW 4跌最多，是特斯拉的問題還是..= =？            01/17 07:06
 
 
 --------------------------------------------------------
