@@ -1,226 +1,3 @@
- 作者  sincsnow (sincsnow)                                        看板  Stock 
- 標題  [新聞]  武漢肺炎疫情威脅美股挫 道瓊跌逾450點                           
- 時間  Tue Jan 28 07:13:38 2020                                               
-───────────────────────────────────────
-
-
-
-1.原文連結：
-
-https://udn.com/news/story/6811/4308505?from=udn_mobile_indexrecommend
-
-2.原文內容：
-
-武漢肺炎疫情威脅美股挫 道瓊跌逾450點
-
-由於市場擔心，新型冠狀病毒疫情將嚴重阻礙全球經濟成長，美股今天收盤重挫。
-道瓊工業指數大跌453.93點或1.57%，以28535.80點作收。
-
-標準普爾指數滑落51.84點或1.57%，收在3243,63點。
-
-科技股那斯達克指數跌175.60點或1.89%，收9139.31點。
-
-3.心得/評論：
-※必需填寫滿20字
-
-武漢肺炎疫情牽動全球股市，美股大跌450點。
-
-未來走勢如何，值得大家密切注意。
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.76.145.176 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1580166820.A.249.html
-推 DNSKHY      : 費半比較慘…                                      01/28 07:22
-推 doremi200585: 還好台股休假                                      01/28 07:31
-→ Liwjim      : 有點慘，開工要大逃殺了嗎                          01/28 07:39
-推 BIGETC      : 會怕就好啦                                        01/28 07:58
-推 SRNOB       : 這比較像是塔利班放空                              01/28 08:03
-→ kuma660224  : 五毛：哈哈 中國或成最大贏家                       01/28 08:06
-推 YLTYY       : 救命ㄛ                                            01/28 08:07
-推 AaronWang   : 台股開盤可以爽跌一波了，希望有便宜的台雞店可以撿  01/28 08:11
-→ summerleaves: 1.57% 不算大啦  就一般波動而已                    01/28 08:15
-推 tamama000   : 三普彈劾案進度如何 我懶得看英文                   01/28 08:18
-推 hamel       : 噴破28500了                                       01/28 08:35
-→ JuiFu617    : 因為會跌2%以上                                    01/28 08:35
-推 popxpopxpop : 誰說說長下影線的，單還不亮一下                    01/28 08:49
-推 Boming      : 請問原油走勢會受肺炎影響嗎                        01/28 09:15
-推 k1k1832002  : 一個雷曼都不到                                    01/28 09:19
-推 somanyee    : 會怕…(o_o)                                       01/28 09:20
-噓 photoless   : 笑屎 雷曼時還有七八千點，現在28000足足多了2000    01/28 09:23
-→ photoless   : 0點                                               01/28 09:23
-推 green0953   : 費半...                                           01/28 09:29
-推 asole       : 費半快-3.9% 台積-4.3% 嗯嗯......                  01/28 09:40
-推 LeMirage2000: 1.57怕三小，樓下歐硬                              01/28 09:46
-推 sandwich1028: 我不敢                                            01/28 09:59
-推 OR          : 小跌1.57%                                         01/28 10:05
-推 abcccbbs    : 根本小跌                                          01/28 10:09
-推 newfighter  : 才450                                             01/28 10:09
-推 yungchan    : 中國又要讓全世界一起陪葬了                        01/28 10:10
-推 kitakawamu  : 好怕QQ                                            01/28 10:33
-推 wsx1983     : 累計跌快800，禮拜四快all in，要不對不起父母       01/28 10:45
-推 wadelover   : 台灣半導體的話是看費半吧！我也將被套，但我相信三  01/28 10:47
-→ wadelover   : 個月至半年一定會解套的，如此轉念就沒啥好擔心的    01/28 10:47
-噓 qqq5890003  : 99油油..                                          01/28 10:54
-推 bryen       : 再一次又給你便宜的台G電，不買嗎？                 01/28 11:04
-→ zxm00038    : 油一定會受影響，用油大宗就是航空業                01/28 11:23
-→ zxm00038    : 這波油抱的很抖                                    01/28 11:23
-→ wayne102    : 450 zzzzz                                         01/28 11:28
-推 madboy      : 空空 崩崩                                         01/28 12:15
-→ fairwarning : 我想買便宜的gg,快崩吧                             01/28 12:38
-
-
---------------------------------------------------------
-
-
- 作者  kyle5241 (Kyle Korver)                                     看板  Stock 
- 標題  [新聞] Intel想在格羅方德下單                                           
- 時間  Tue Jan 28 07:17:14 2020                                               
-───────────────────────────────────────
-
-
-1.原文連結：
-※過長無法點擊者必須縮網址
-https://tinyurl.com/uc2lf6o
-
-2.原文內容：
-
-Rumor: Intel Moving Select CPUs To GlobalFoundries
-
-謠言：英特爾將部分CPU轉移到GlobalFoundries來製造
-
-
-Rumor: Intel will be offloading select CPUs to GloFo in 2020
-That Intel underestimated demand for its 14nm process is an understatement.
-Having just knocked off a record quarter the company is already trying to
-increase fab capacity by 25% but even that might not be enough to survive the
-onslaught of expected growth of the PC industry in 2020. Since Intel's GPUs
-are also supposed to enter the fray in terms of production this year, things
-are going to be very tight and the company needs to manage its production
-lines very carefully in order to have a chance of meeting demand and not
-bleeding more market/mind share to AMD. This is where this particular rumor
-comes in.
-
-英特爾低估了其14納米工藝的需求，這是一種輕描淡寫的說法。剛剛結束創紀錄的季度
-後，該公司已經在嘗試將晶圓廠產能提高25％，但這甚至不足以承受2020年PC行業預期
-增長的衝擊。由於英特爾的GPU也將在今年的產線中競爭，因此情況將非常緊張，該公司
-需要非常謹慎地管理其生產線，以便有機會滿足需求並且不會把市佔率失血給AMD.
-這就是這個謠言的來源。
-
-Since GloFo is stuck at the 14nm/16nm process for now this would make sense
-as Intel would be freeing up critical fab space for its higher end processors
-while moving these parts where the market is fairly stagnant to GloFo.
-Another reason why this rumor makes sense is that the transition to GloFo is
-in line with their vision (as opposed to TSMC) considering the former is
-located inside the United States and the status quo socio-political scenario
-right now wouldn't look too kindly at outsourcing capability to TSMC.
-
-由於GloFo暫時停留在14nm / 16nm工藝上，因此這是有道理的，因為英特爾將為其高端處
-理器釋放關鍵的製造廠空間，同時將這些部件轉移到市場對GloFo相當停滯的地方。 謠言
-之所以有意義的另一個原因是，考慮到前者位於美國境內，並且目前的社會政治情況看起
-來不太友好，因此向GloFo過渡符合他們的願景（與台積電相反） 台積電的外包能力。
-
-According to our source, here are the lineups Intel is considering moving to
-GloFo:
-
-根據消息來源，以下是Intel可能考慮轉移的產線。
-
-Celerons (very likely)
-Pentiums (very likely)
-Core i3s (maybe)
-
-There have also been rumors that Intel is considering tapping TSMC for its
-next-generation graphics cards (certainly not the DG1) which would free up a
-ton of space at the cost of relying on an outside foundry for production.
-While I do not believe it is in Intel's best interests, this strategy also
-paves the way for a future spin off of the manufacturing group and allowing
-the company to become independent as a design house (that said, AMD's Wafer
-Supply Agreement is essentially a dead weight and while the company has
-managed to creatively work around it, the same might not be true for a
-post-spun-off Intel).
-
-也有傳言稱，英特爾正在考慮將台積電用於其下一代圖形卡（當然不是DG1），這將釋放
-大量空間，但要依賴外部代工廠進行生產。 儘管我認為這不符合英特爾的最大利益，但
-這種策略也為將來分拆製造部門並允許該公司作為設計公司獨立而鋪平了道路（也就是說
-，AMD的晶圓供應協議本質上是死沉沉了，儘管該公司已設法創造性地解決了這一問題
-，但對於分拆後的英特爾而言可能並非如此。
-
-The choice to offload Celerons and Pentiums makes the most sense because
-these are processors which don't really need the cutting edge lithography or
-node maturity that is available in Intel's 14nm+++. GlobalFoundries nodes
-would suffice just as much in these lower tier platforms and I think it makes
-definitive business sense to get rid of these. The Core i3 part on the other
-hand I am not so sure off because that is a mainstream desktop part and one
-that is closely tied to the Intel brand name and since GloFo's process is
-going to be different to Intel's (unless the company shares its trade secret
-'CopyExactly") it could potentially damage the company's goodwill.
-
-卸載賽揚和奔騰處理器的選擇是最有意義的，因為這些處理器實際上並不需要英特爾
-14nm +++中提供的最先進的光刻技術或節點成熟度。 在這些較低層的平台中，
-GlobalFoundries節點就足夠了，我認為擺脫這些節點具有一定的商業意義。 另一方面，
-我不太確定Core i3部件是因為它是台式機的主流部件，並且與Intel品牌名稱緊密相關，
-並且因為GloFo的流程將與Intel的流程有所不同（除非該公司共享其貿易） 機密“
-CopyExactly”），可能會損害公司的商譽。
-
-All that said, if this turns out to be true, Intel should be able to add a
-few percentage points of capacity on top of the 25% this quarter and if the
-ramp to 10nm goes successfully would be finally out of murky waters by early
-2021. That this is going to be a make or break time for the company would
-also be an understatement. If 10nm fails, then the company is looking at
-loosing a lot more market-share to AMD and once the 14nm node becomes old
-enough, demand would quickly fall as well.
-
-話雖如此，如果事實證明這是真的，那麼英特爾應該能夠在本季度的25％之上增加幾個百
-分點的容量，如果成功實現10nm的升級，那麼到2021年初最終將擺脫困境 對於公司而言
-，這將是一個成敗的時機，這也是一種輕描淡寫的說法。 如果10nm失效，那麼該公司正
-在考慮失去更多的市場份額給AMD，而一旦14nm節點變得足夠老，需求也會迅速下降。
-
-3.心得/評論：
-※必需填寫滿20字
-
-沒想到風水輪流轉
-
-竟然變成Intel可能需要Globalfountries
-
-在intel產能的不足的情況下
-
-釋出一些單也比較有彈性一點啦～
-
-反正低階的cpu它擺明也不想要生產了
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 131.215.220.162 (美國)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1580167037.A.4F6.html
-推 chenchien   : AMD高階都ALL IN GG了 毛利低歡迎給其他家啊         01/28 07:33
-推 bitlife     : 與AMD分享心得? 這是機器翻譯?                      01/28 07:37
-推 kline       : 99 glofo                                          01/28 07:46
-→ JuiFu617    : GF陰AMD不夠還要陰中離王？                         01/28 08:35
-噓 hbj1941     : 把GF買下不是更快                                  01/28 08:45
-→ Leo4891     : google翻譯?                                       01/28 09:05
-google 翻譯比較省時間...哪邊覺得不好的我重新翻一下
-推 denispeter  : 這翻譯不行                                        01/28 09:17
-推 fuzzer      : AMD都放棄治療不要的公司，牙膏廠想要?              01/28 09:28
-※ 編輯: kyle5241 (131.215.220.162 美國), 01/28/2020 09:47:03
-※ 編輯: kyle5241 (131.215.220.162 美國), 01/28/2020 09:47:53
-→ abyssa1     : 補一些低階產地而已 沒什麼問題吧                   01/28 09:47
-→ abyssa1     : 產能                                              01/28 09:47
-推 truevines   : 快下。下了，GG跟AMD股價就漲翻天                   01/28 09:54
-→ niburger1001: 趕快下 我先amd yes                                01/28 10:01
-推 popo123456  : 越缺貨，英特爾賺越大.....                         01/28 10:12
-推 leehao      : 跟鬼拿藥單                                        01/28 10:12
-推 KrisNYC     : GF的14/16nm ....算了做做賽揚而已....              01/28 10:26
-→ KrisNYC     : 大概是算一算GF做成本只有自己家一半吧              01/28 10:26
-→ kyle5241    : 畢竟i3就只是i7屏蔽不划算吧                        01/28 11:38
-推 newti       : GF....只能說保重                                  01/28 11:55
-推 MPSSC       : 拿GF不如拿Samsung Austin....;                     01/28 12:04
-→ flylee      : 把GF塞滿，卡住 Ryzen IO die產能                   01/28 12:07
-→ teenyhey    : 這node等於牙膏自己22nm而已 空自己產能給server用   01/28 12:14
-→ teenyhey    : 而已                                              01/28 12:14
-推 jzbobby     : 請鬼拿藥單                                        01/28 12:52
-
-
---------------------------------------------------------
-
-
  作者  QQmickey (廢文製造機)                                      看板  Stock 
  標題  [心得] 這次我信了                                                      
  時間  Tue Jan 28 08:10:56 2020                                               
@@ -408,6 +185,8 @@ https://tinyurl.com/td74g54
 → Kydland     : 只有一部分人力取消休假回去加班                    01/28 14:01
 → Kydland     : 現在在銷售通路賣的都是過年前進的存貨              01/28 14:01
 → Kydland     : 開工後應該會比較好一點                            01/28 14:02
+→ borriss     : 太樂觀了  光捷運公車這些大眾運輸運量一天就多少了  01/28 14:17
+→ lonelybird  : 一個月禁出口的營收不至於掉太多，先自保才是重點    01/28 14:25
 
 
 --------------------------------------------------------
@@ -707,6 +486,9 @@ Intel跌4.06％，Nvidia跌4.1％，ASML跌3.9％，AVGO跌4.62％，美光跌4.
 推 lenfeng     : 美東時間29日晚上台股開盤                          01/28 13:52
 推 madboy      : 老謝就是馬後砲大王R                               01/28 13:55
 → wingstar    : 開盤跌300-400??收盤不就跌1000了                   01/28 14:16
+→ jalai       : 星期四 各大報頭版都是世界末日武漢肺炎 股市就安啦  01/28 14:18
+推 taihsin     : 封關前說我就服                                    01/28 14:32
+噓 ting445     : 我來賭開盤後一周台股一定有一天下跌啦              01/28 14:39
 
 
 --------------------------------------------------------
@@ -791,6 +573,7 @@ Intel跌4.06％，Nvidia跌4.1％，ASML跌3.9％，AVGO跌4.62％，美光跌4.
 推 castjane    : 感謝整理                                          01/28 13:33
 → gkk5678     : 榮成真慘…                                        01/28 13:45
 推 codehard    : 感謝整理                                          01/28 14:15
+→ sosobook    : 整理真好+1                                        01/28 14:38
 
 
 --------------------------------------------------------
@@ -955,6 +738,11 @@ https://www.nownews.com/news/20200118/3891893/
 → dancedolf   : 谷：推薦買漲了3-5% 推薦賣的漲了3-5倍              01/28 13:20
 → madboy      : 反指標大師www                                     01/28 13:20
 推 topaaron12  : 看大家一路看空 ，就知道可以進場了                 01/28 13:59
+→ a9564208    : 你也知道自己是反指標啊大濕                        01/28 14:19
+推 simbr       : 這三位聚集，有如六顆無限寶石放在手套內啊......    01/28 14:19
+→ simbr       : 台股要變成灰了嗎？                                01/28 14:19
+→ a9564208    : 找找老共跌倒台灣吃飽股啊，面板塑化應該不差吧      01/28 14:20
+→ tctv2002    : 一堆指標全面看空 根本送分題                       01/28 14:21
 
 
 --------------------------------------------------------
@@ -1060,6 +848,9 @@ https://images.chinatimes.com/newsphoto/2020-01-21/900/20200121004953.jpg
 推 basslife    : 同意倒數第二段 利益衝突的確是關鍵                 01/28 14:07
 推 wingstar    : 等下，三星和GG做同一種晶片可以有不同大小，怎麼可  01/28 14:14
 → wingstar    : 能，是製程有問題吧                                01/28 14:14
+→ a9564208    : 可能是輸在 輪班星人 吧                            01/28 14:25
+推 popmentos   : 等 intel 切出去，美國就可以對台積電加徵關稅了     01/28 14:26
+推 talktomyleg : 這種技術領先加徵關稅會讓本國公司增加成本吧        01/28 14:34
 
 
 --------------------------------------------------------
@@ -1244,6 +1035,7 @@ Sent from JPTT on my Samsung SM-A750GN.
 → nildog      : 外移多                                            01/28 14:12
 推 semicoma    : 我覺得你是設定"房價不該會跌"的結論 再拼命找似乎   01/28 14:15
 → semicoma    : 可以支撐這結論的觀點來論述耶                      01/28 14:15
+→ a9564208    : 看這波金融撐不撐得下去，決定房市怎麼跑            01/28 14:30
 
 
 --------------------------------------------------------
@@ -1315,6 +1107,7 @@ https://udn.com/news/story/6811/4308358
 → madboy      : 可是油價還是不漲                                  01/28 13:36
 → madboy      : 頂多利空消失 要說解套還很難                       01/28 13:37
 → sandwich1028: 好像拉回一些了                                    01/28 14:13
+推 blademaster : 60還是太高了                                      01/28 14:34
 
 
 --------------------------------------------------------
@@ -1532,6 +1325,11 @@ https://reurl.cc/W4nD8y
 → jalai       : 結論: 不要跟趨勢做對                              01/28 14:08
 推 jeross      : 開盤先大跌誘空，然後再撲空，等多多接刀假拉再殺一  01/28 14:12
 → jeross      : 批，收平盤                                        01/28 14:12
+→ tctv2002    : 一萬點以下 每跌一千點 買兩張0050                  01/28 14:18
+推 sandwich1028: 股神都把走勢開示了。應該準備all in了吧            01/28 14:26
+推 clairehao   : 高點時總不缺羊 低點時沒人想買股                   01/28 14:29
+推 sosobook    : 半導體該加碼了?                                   01/28 14:36
+推 ben811018   : 下修10趴差不多吧                                  01/28 14:41
 
 
 --------------------------------------------------------
@@ -1566,6 +1364,11 @@ https://i.imgur.com/vBv5mHe.jpg
 → The5F       : 有哪幾間比例少的呀                                01/28 14:03
 → Dimitre     : 男子店要GG惹                                      01/28 14:08
 噓 a44883      : 楠梓35元保衛戰要下探到30？                        01/28 14:09
+→ Wilsonek    : 不少pcb中槍                                       01/28 14:17
+推 Palindrome  : 99男子漢QQ                                        01/28 14:21
+推 vviiccttoorr: 海公公慢走 不送 下去探親吧                        01/28 14:30
+推 cscpony     : 紅海回來70來買，上波手邊沒錢買                    01/28 14:31
+推 gigikaka    : https://reurl.cc/W4nDKk                           01/28 14:34
 
 
 --------------------------------------------------------
@@ -1609,6 +1412,13 @@ Sent from JPTT on my Asus ASUS_X00TDB.
 推 fairwarning : 去貸款翻身阿                                      01/28 13:41
 → Dimitre     : 抄底真的難 被嘎會破產的                           01/28 14:09
 → Dimitre     : 說錯...                                           01/28 14:10
+推 heavenbeyond: 要先問小英給不給你機會喔。                        01/28 14:33
+推 green0953   : 我看每個人都說要撿 沒有很低吧                     01/28 14:36
+→ heavenbeyond: 一切預告在先：「一個剛得票800萬的台灣總統+一個只  01/28 14:37
+→ heavenbeyond: 能靠股市點數競選連任的美國總統」，這一男一女加起  01/28 14:37
+→ heavenbeyond: 來，不可能讓股市崩，修正個10～20%買進好標的做一   01/28 14:37
+→ heavenbeyond: 個波段倒是不錯。                                  01/28 14:37
+→ heavenbeyond: 真正崩盤要再等四年比較有機會。                    01/28 14:37
 
 
 --------------------------------------------------------
@@ -1658,6 +1468,15 @@ Sent from JPTT on my Asus ASUS_X00TDB.
 噓 Dimitre     : SARI???                                           01/28 14:07
 推 f33783378   : BM                                                01/28 14:08
 推 jshuang     : 比台灣素食店肉排還難吃的東西不用出來丟臉          01/28 14:10
+推 meowyih     : 沒吃過，真的會和肉做的漢堡一樣？                  01/28 14:22
+推 semicoma    : 野味比豬肉還貴 當然是不同市場                     01/28 14:24
+→ somanyee    : 台灣素肉口味屌打，真心不騙                        01/28 14:25
+→ shaoweei    : 吃素 != 健康 還不如培養皿牛肉                     01/28 14:28
+→ willism     : 洋人的素肉談“色香味形意養”，台人卻只停留在“    01/28 14:35
+→ willism     : 味道”? 人家的素肉有血啊...也難怪人家beyond mea   01/28 14:35
+→ willism     : t一季營收，屌打你台灣素肉“吧主”整年收入。       01/28 14:35
+推 SweetLee    : 最好是吃素就不會得肺炎啦                          01/28 14:36
+→ ataky       : 素肉有血還叫素肉嗎....                            01/28 14:40
 
 
 --------------------------------------------------------
@@ -1728,6 +1547,123 @@ vero-E6細胞出現變化。（圖／翻攝人民網）
 推 wsx1983     : 過個半年以上吧，還要看人體測試                    01/28 14:08
 推 wingstar    : 分離出病毒到實際做出疫苗再到人體試驗成功，有得等  01/28 14:10
 → jalai       : 放消息 拉逃命波嗎???                              01/28 14:13
+推 eric791112  : 跌幅收斂惹                                        01/28 14:17
+推 nildog      : 維穩新聞...當初非洲豬瘟不是也有說...              01/28 14:18
+→ tctv2002    : 分離這個不難阿  主要是製作這個過程吧              01/28 14:20
+噓 kenbbc12321 : 中國這麼厲害，豬瘟怎麼還是無解，都多久時間了      01/28 14:24
+→ semicoma    : 已經死亡破百了                                    01/28 14:25
+噓 Palindrome  : 中國的你敢信                                      01/28 14:26
+噓 justin037666: NCC不管假新聞喔？                                 01/28 14:27
+推 apolloapollo: 鐵線蟲入侵                                        01/28 14:33
+噓 hbj1941     : 中國疫苗你敢打？                                  01/28 14:34
+推 angellll    : 黨報繼續報假消息騙騙傻子                          01/28 14:40
+
+
+--------------------------------------------------------
+
+
+ 作者  z61352 (z61352)                                            看板  Stock 
+ 標題  [請益] 投資先生 日 週 月 還？                                          
+ 時間  Tue Jan 28 14:19:17 2020                                               
+───────────────────────────────────────
+
+請問投資先生 日 週 月 還 的「還」是什麼意思啊？
+
+其它都很好懂…就這個想不出個所以然…
+https://i.imgur.com/ZmNUtEP.jpg
+
+另外小時候爸媽幫忙開的證券戶，
+他們也可以下單是簽訂什麼契約嗎？
+應該不會所有人都可以單吧= =
+因為爸媽都用打電話的方式…
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 110.26.190.87 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1580192359.A.474.html
+推 labbs       : 欠債還錢                                          01/28 14:19
+→ jalai       : 還錢                                              01/28 14:20
+噓 oop53       : 地球很危險 快回去火星吧                           01/28 14:20
+※ 編輯: z61352 (110.26.190.87 臺灣), 01/28/2020 14:21:11
+推 UltraSeven  : 還原權值吧                                        01/28 14:21
+→ a9564208    : 還我漂漂拳                                        01/28 14:22
+推 madboy      : 還錢www                                           01/28 14:22
+推 ganlinlausu : 捕獲野生U姊                                       01/28 14:23
+推 wsx1983     : 還錢啊，不是有寫。你國小老師很生氣歐              01/28 14:24
+→ LLAALL      : 還錢XD                                            01/28 14:25
+→ choasX      : 還原                                              01/28 14:29
+→ The5F       : 環珠格格                                          01/28 14:29
+推 higashi1107 : 還沒畢業                                          01/28 14:31
+推 net         : 還原                                              01/28 14:36
+
+
+--------------------------------------------------------
+
+
+ 作者  charles0939 (charles0939)                                  看板  Stock 
+ 標題  [新聞] 武漢肺炎／台灣出現第7例！初三到初五「                           
+ 時間  Tue Jan 28 14:30:50 2020                                               
+───────────────────────────────────────
+
+武漢肺炎／台灣出現第7例！初三到初五「口罩限量一人買3個」
+
+2020-01-28|頭條, 健康新知, 武漢肺炎, 即時新聞
+
+2019新型冠狀病毒肺炎（武漢肺炎）疫情擋不住！台灣28日確定新增2例境外移入案
+例，總案例來到第7例。
+
+這2名案例都是來自中國武漢市的70多歲女性，在2020年1月22日一起來台灣觀光，而
+武漢是23日封城，加上她們當時沒有發病，所以順利進入台灣。
+
+而2名案例都在25日出現發燒症狀，她們本身也有警覺性，所以即時就醫，28日時確
+診有新型冠狀病毒感染，但「沒有出現肺炎」，目前病情穩定。
+
+台灣疫情總匯
+
+27日時，國內也新增130例通報個案，共累計530個案，其中269名已排除，7名確診，9
+8名初檢陰性，其餘則尚待檢驗；另外，前5個確診案例的接觸案例共470人，其中16
+人有症狀已通報，有10人已排除、6人檢驗中。
+
+中央流行疫情指揮中心28日警告，國內再新增2例境外移入「嚴重特殊傳染性肺炎」
+（武漢肺炎）病例，而中國大陸31省市（不含港澳）中，只剩西藏自治區沒有肺炎確
+診案例，其他都傳出案例，而且增加速度非常快、疫情嚴峻。
+
+指揮中心表示，現在已經確認有人傳人的能力，加上案例增加，所以擴大提升中國大
+陸（不含港澳）的旅遊疫情建議至第三級警告（Warning），如非必要應避免前往。
+
+經濟部商業司副司長陳秘順則說，口罩因為在需求量的關係，在各個通路、藥局、藥
+妝店都銷售的非常快，量跟平常比起來成長很多，目前超商的庫存只足夠一天的供應
+量，所以在這樣的情況下，每天會釋出6百萬片，連續3天。「不過要提醒，口罩雖然
+是一盒50片，但這是儲備防疫用的，所以一個人限購3片！」
+
+陳秘順說，「畢竟在過年期間的產量是下降的，所以初三、初四、初五這3天是應急
+的措施，希望讓每個人都可以買到口罩，所以有限量，希望讓大家不要搶購；但初六
+、初七開工之後，產量可以銜接上，供應量就能比較充足。」
+
+文、圖／盧映慈
+
+武漢肺炎／台灣出現第7例！初三到初五「口罩限量一人買3個」 | Heho健康
+https://heho.com.tw/archives/65620
+
+
+台灣的口罩都不夠了，舔共藝人還在推波助瀾，范瑋琪I feel shame for you !
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.15.221.63 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1580193052.A.116.html
+推 green0953   : 我買一包5個耶                                     01/28 14:32
+→ blademaster : 院長不是保證台灣夠用？                            01/28 14:32
+※ 編輯: charles0939 (101.15.221.63 臺灣), 01/28/2020 14:32:54
+推 Bao         : 糟了 七七共辜                                     01/28 14:32
+噓 adsl12367   : 都是陸客  可撥                                    01/28 14:33
+→ adsl12367   : 不是說路克布萊                                    01/28 14:33
+噓 yulymoon    : 中國支那人全都禁止進入好嗎                        01/28 14:33
+→ apolloapollo: 噴噴                                              01/28 14:33
+推 ben811018   : 一人買3片是新包裝嗎                               01/28 14:34
+推 tokight     : 封島很難？                                        01/28 14:37
+推 Evonn       : 犯賤期黑人跟大小屎那幫舔共藝人哪管台灣人死活      01/28 14:40
+推 pisu        : 王八蛋 禁止大陸人來台是很困難嗎？                 01/28 14:40
+目前已經禁止
+※ 編輯: charles0939 (101.15.221.63 臺灣), 01/28/2020 14:41:42
 
 
 --------------------------------------------------------
