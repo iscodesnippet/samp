@@ -1,97 +1,3 @@
- 作者  kyle5241 (Kyle Korver)                                     看板  Stock 
- 標題  [新聞] 台積A14不會拖累iPhone 12的上市                                  
- 時間  Thu Mar 26 00:39:43 2020                                               
-───────────────────────────────────────
-
-
-1.原文連結：
-※過長無法點擊者必須縮網址
-
-https://tinyurl.com/tg3xzm6
-
-2.原文內容：
-
-TSMC A14 chip won't be holdup for 5G 'iPhone 12'
-
-台積電A14晶片不會把iphone 12拖住
-
-In a note to investors seen by AppleInsider, J.P. Morgan has chimed in on
-rumors that the A14 chip expected in the "iPhone 12" will be pushed out up to
-two quarters past expected mass production. Instead, Hariharan says that
-Apple has already signed off on the final design of the 5nm A14, with
-production starting very soon.
-
-原本傳言iPhone 12的A14晶片會晚兩個月才量產，但Hariharan說蘋果已經簽核了
-5nm A14的最終設計，量產馬上就會開始
-
-"We also believe that meaningful wafer starts for new iPhones should commence
-in April - May timeframe and TSMC is unlikely to see a meaningful bottleneck
-in production process," writes Hariharan. "We believe that the 5nm process
-node has been ramping up reasonably smoothly through 4Q19 and 1Q20."
-
-"我們相信量產會在四到五月開始，台積電不太可能遇到生產瓶頸，而且5nm的產能
-會在第四季提升的非常順利"
-
-But, that doesn't mean that the "iPhone 12" will ship in September. Hariharan
-believes that some delay is possible from other factors, but it won't be
-because of the A14.
-
-然而，這並不表示iPhone 12會在九月出貨，它延遲的關係是來自於其它因素，而不是
-A14
-
-Harriman is seeing the first engineering verification tests to be completed
-for the "iPhone 12" in April, a bit later than previous years. Production
-verification tests and pilot production tests are scheduled for late June
-according to Hariharan, also later than in previous years.
-
-Harriman預期四月會完成iPhone 12的第一個工程驗證，比往年慢了一點。製造驗證
-可能會在六月底，也比往年晚。
-
-As a result of the later testing and other economic factors, Harriman, and
-others, believe shipments may not happen until October or November, versus
-late September —not dissimilar to the iPhone X shipment timeframe.
-
-因為較晚驗證和其它的經濟因素，iPhone 12出貨可能要到10月或是11月才開始，
-這跟iPhone X的出貨很像
-
-3.心得/評論：
-※必需填寫滿20字
-之前說蘋果要延後A14下單其實很不合理
-
-第一、A14又不會賣不完，但怕不夠賣，而且晶片又不會過期，先累積庫存不會怎麼樣
-大不了把晶片往iPad mini、Apple TV、iPhone 11塞，還可以順便打爆對手
-
-第二、AMD明年要撿蘋果空下來的產量，蘋果延後那AMD zen 4也不可能馬上上，如果
-蘋果明年把AMD的產能吃掉AMD一定不爽，如果台積說蘋果要排AMD後面，那蘋果
-應該還是寧願先下單
-
-第三、蘋果如果今年學iPhone X那年，先首發iPhone 12、iPhone 12 Pro再延遲出貨
-，應該在製造上就不會這麼擠，還可以延長營收高峰，也沒啥不好
-
-今天GG和AMD都繼續漲....
-我不賣了...根本跌不回來...
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 131.215.220.161 (美國)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1585154385.A.8D3.html
-推 mike110100  : 台雞太貴了 打個折吧                               03/26 00:43
-推 FirePopcorn : gg硬爆                                            03/26 00:48
-推 wargods8402 : 晶片不會過期...可是受潮很麻煩...                  03/26 00:50
-噓 CSLsong     : 傻眼 晶片不會過期..                               03/26 00:57
-推 stosto      : 當然阿 是apple拖住A14阿.....                      03/26 00:57
-→ stosto      : 到時候送到後段又一堆生鏽的晶圓                    03/26 00:58
-推 sdf0419     : 我已經準備銀彈要買12了                            03/26 01:01
-→ wargods8402 : 大陸沒全線復工是主因吧？                          03/26 01:03
-推 leehui12    : 晶片不會過期 但會過時                             03/26 01:29
-→ abyssa1     : 晶片會過時 但apple賣過時庫存的能力是世界第一      03/26 01:54
-→ sopi        : 過時??? 出個低階機就好了 你沒買過iphone?          03/26 02:14
-→ sopi        : 你當iphone se 3 4 5 6 吃素的?                     03/26 02:14
-推 snoopy790428: 過時也是過時中的霸主                              03/26 05:56
-
-
---------------------------------------------------------
-
-
  作者  ericen (該留下些什麼)                                      看板  Stock 
  標題  [請益] 石油ETF為什麼只有元大有                                         
  時間  Thu Mar 26 00:44:40 2020                                               
@@ -534,6 +440,7 @@ ETF 的本質我是有研究過 股票型 債券型 的上百頁公開說明書 
 推 AAAntou     : 你說得對 但是我要看對帳單                         03/26 02:44
 推 acd311      : 股市會漲就二個因素，資金+信心，現在資金己經印了   03/26 05:33
 → acd311      : ，只要讓投資人相信政府在拉股市，大家就有信心了    03/26 05:33
+推 c7683fh6    : 出現了 這次不一樣                                 03/26 06:20
 
 
 --------------------------------------------------------
@@ -661,6 +568,7 @@ ETF 的本質我是有研究過 股票型 債券型 的上百頁公開說明書 
 推 billionaire : https://bit.ly/2JdT6Ee                            03/26 05:27
 推 stlinman    : 中共病毒都不怕了！會怕倒債？                      03/26 05:46
 推 speculator  : 中國大銀行都是國營的                              03/26 06:07
+推 challenge23 : 薩諾斯川的鈔票很多不要怕                          03/26 06:15
 
 
 --------------------------------------------------------
@@ -778,6 +686,18 @@ d 和財政政策都無法提供幫助。
 推 super830827 : 同意                                              03/26 05:38
 推 speculator  : 推                                                03/26 06:03
 推 Laviathan   : 嘴的人是不知道就是他帶領全球走出2008金融危機的    03/26 06:06
+→ bitlife     : 推文對戰爭過後的模型好像只有美好未來這一種,似乎   03/26 06:09
+→ bitlife     : 都忘了希特勒怎麼崛起的. 疫情和戰爭有個差別是沒有  03/26 06:10
+→ bitlife     : 物質建設的破壞,人死了,即使是老人,也代表物資過剩,  03/26 06:10
+→ bitlife     : 要儘快帶動成長,終究還是要靠新的需求帶動.2008之後  03/26 06:11
+→ bitlife     : 至少有智慧手機和行動上網,未來還是要看疫情前大家   03/26 06:13
+→ bitlife     : 寄望的5G,AI,電動車等項目是否真的能帶動需求        03/26 06:13
+→ bitlife     : 從支出面來看,老人的食衣住行支出也是別人的收入,醫  03/26 06:15
+推 agvnol      : 存股族全力買進                                    03/26 06:16
+→ bitlife     : 療長照等也是.人類社會的結構還是依人數成比例,中年  03/26 06:18
+→ bitlife     : 人如果讓出位置,有可能也代表其實位置要消失,類似國  03/26 06:18
+→ bitlife     : 軍裁軍後要減少將官數量一樣.主要還是只有扶養壓力   03/26 06:19
+→ bitlife     : 的改善,不論對個人或國家. 但終究重點還是在新需求   03/26 06:19
 
 
 --------------------------------------------------------
@@ -806,9 +726,9 @@ https://i.imgur.com/EW4xRxj.jpg
 推 eknbz       : 貨很多盡量買                                      03/26 01:40
 推 chungj      : 你的日期快了一天                                  03/26 01:41
 推 stanleyiane : 直上30000                                         03/26 01:42
-推 wastetheone : 美金重貶以前，漲市不會停止                        03/26 02:15
 ※ 編輯: ZZ321 (118.165.114.133 臺灣), 03/26/2020 02:26:57
 推 willy4907   : 只有一個卡撐別買太多                              03/26 05:00
+→ sunnymiruko : 點到為止                                          03/26 06:10
 
 
 --------------------------------------------------------
@@ -1228,6 +1148,7 @@ oh 不, 其實我上禮拜五就忙完了, 我真是笨蛋
 → j102030111  : 寧願如原po一樣浪費一周操作也不要因此畢業          03/26 03:10
 推 yamiyodare  : 佛系防疫最大的風險是病毒感染越多人越有可能突變    03/26 04:18
 → yamiyodare  : 西班牙流感突變過的第二波殺傷力遠比第一波大        03/26 04:19
+推 hoin        : 推                                                03/26 06:17
 
 
 --------------------------------------------------------
@@ -1871,6 +1792,9 @@ FED已經看到未來可能引發的經濟海嘯
 推 wed1979     : 大媽把買菜逛街上館子的錢全投進股市了...           03/26 05:34
 推 lusifa2007  : 這不廢話嗎？誰都知道會回來什麼時候而已，現在？還  03/26 05:50
 → lusifa2007  : 早                                                03/26 05:50
+推 jerrychuang : 教主不要再堅持絕對摸底了，相對勝率大就可以慢慢接  03/26 06:15
+→ jerrychuang : 一點來玩，不然人生也太無聊                        03/26 06:15
+推 SY082022    : 推                                                03/26 06:17
 
 
 --------------------------------------------------------
@@ -2198,6 +2122,43 @@ Sent from JPTT on my Samsung SM-N950F.
 噓 stevenkuo   : 台灣安樂死快通過，好嗎                            03/26 04:59
 → kyova       : 恩...西班牙流感有變異過...好像第二波年輕人很慘    03/26 05:11
 噓 monarch0301 : 老人花不完的錢也不會進年輕人口袋                  03/26 06:08
+→ sunnymiruko : nflix已漲幾天了                                   03/26 06:09
+
+
+--------------------------------------------------------
+
+
+ 作者  lumilumi (我是嚕嚕米！)                                    看板  Stock 
+ 標題  [心得] 本日川普記者會 - 紓困法案出爐                                   
+ 時間  Thu Mar 26 06:13:28 2020                                               
+───────────────────────────────────────
+
+今天是財政部長和氣質女博士站在我川後面，法案應該是穩了，女博士今天的披肩蠻好看
+
+1. 參議院版本的史上最猛relief bill將要通過，3500億企業援助（主要是有個最後可以
+被waive掉的貸款，只要滿足幾個特定條件最後持續聘請員工），3000億美元現金直接發
+給米國人，2500億美元最高四個月的失業救助，1000億美元支援醫院，450億美元支援災
+難救助，270億美元用來防疫物資，160億美元拿來買其他戰略物資，80億用來疫苗開發，
+還有提到幾百億美元拿來stock buyback
+2. 財政部有和Fed合作弄另一個四兆美元的計畫，還沒定案，稍微提一下，沒有必要不會
+打出來
+3. 提到非營利組織們對米國這次災情的幫助
+4. FEMA 協助提供940萬n95口罩，2000萬外科口罩，6000個呼吸器，300萬個防護面具給
+災區
+5. 馬里蘭州的一個七歲小孩用他的午餐錢捐給當地醫院，提到這種事情正在米國不斷發
+生，許多無名英雄在幫助大家一起渡過疫情
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 209.107.189.206 (美國)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1585174410.A.934.html
+→ gju88888    : 結果疫苗開發投最少                                03/26 06:15
+推 meowgy      : 捐午餐給醫院比較實用點                            03/26 06:15
+推 luckyjune   : 樓下說已反應                                      03/26 06:15
+→ DANTEINFERNO: 今天不罵中國 改罵歐洲@@                           03/26 06:16
+推 egg87346    : 灑錢囉各位  還不快去撿錢                          03/26 06:18
+推 pantani     : 給醫療比給經濟少好多                              03/26 06:21
+推 tamama000   : 鄉民早就反應到2025了 不會漲好嗎                   03/26 06:22
 
 
 --------------------------------------------------------
