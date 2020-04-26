@@ -1972,6 +1972,31 @@ etoro會把賣出價的點差下調  減少你實際利潤
 ───────────────────────────────────────
 
 ※ 引述《a3556959 (appleman)》之銘言：
+: 3.基於鮪魚的合約是場外交易的原理，市場有大變動的時候，大量的單量出現，
+: 但是他們
+: 流動性沒辦法像真正的紐交所一樣報價，所以會出現滑價，也就是報價資料會跟
+: 美股券商有落差，這就是你看到點差被拉大的原因
+
+點差是基於滑價這真的是很奇怪的說法
+那你怎麼解釋IG假日盤, 現貨不開盤, IG自己也幾分鐘甚至幾十分鐘成交一次
+根本不存在滑價的問題
+但點差卻是平日好幾倍？
+
+點差是CFD平台商基於自身風險計算出來的, 跟滑價是兩回事
+假日點差大是因為假日IG沒有管道可以對沖風險, 所以拉大點差, 多一點自保能力
+
+另外, 事實上滑價也是在保護平台利益, 而不是甚麼流動性
+造市型的CFD交易平台, 交易就只是在自己平台上成交
+報價跟點差都是平台自己給的報價, 根本不該出現滑價
+會出現滑價是因為平台商不願意承擔平台報價跟市價的價差風險, 所以轉嫁給客戶
+奇怪, 平常都知道是場外交易, 出現滑價的時候又知道要跟市價了
+
+
+anyway, 我不會說這些平台保護自己利益的手法是詐騙
+但就像我在推文說的, 我是不會去相信跟自己有利益衝突的平台的
+這種流動性由平台提供的商品, 你是在期待你的競爭對手給你一個公平的競爭環境
+這種看對手良心的商品, 最好是少玩
+
 : 6其他文章有看到解釋了，鮪魚的石油報價是逐日轉倉
 : → IBIZA       : 6的問題似乎沒辦法用逐日轉倉解釋                   04/27 01:23
 : → IBIZA       : 我那天是沒有注意eToro報價, 但如果當天eToro報價    04/27 01:24
@@ -1989,7 +2014,7 @@ https://reurl.cc/kdrdgK
 
 The price of the Spot CFD is derived from the two upcoming Futures
 contracts on the underlying commodity. The Future contract with the
-  closest expiry date is called the Front. The Future contract with
+closest expiry date is called the Front. The Future contract with
 the second-closest expiry date is called the Next. As soon as the
 previous contract expires, the price we offer is equal to the Front
   month contract. When the Front month contract expires, the Next month
@@ -2009,9 +2034,9 @@ a curve from the Front price to the Next price
 
 
 我先說明, 我自己沒有盯那天eToro的報價
+我先說明, 我自己沒有盯那天eToro的報價
 但就原po的說法, 那天eToro報價一直都很高, 在5月報價為負數的時候甚至有到22過
 
-如果是這樣就很奇怪啦, 因為那天6月合約的報價, 一整天最高就是22
 如果是這樣就很奇怪啦, 因為那天6月合約的報價, 一整天最高就是22
 在那天晚上5月合約殺到變負數的時候, 6月合約也掉到10美元以下, 最低只有6.5
 如果eToro當天一整天都沒有反映這個價格, 那真的是很離奇的事情....
@@ -2021,12 +2046,12 @@ a curve from the Front price to the Next price
 --
 ※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.56.77 (臺灣)
 ※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1587923681.A.527.html
-※ 編輯: IBIZA (122.116.56.77 臺灣), 04/27/2020 01:56:29
 → stocktonty  : 虧的時候不開牌 賺的時候拼命滑價宰閒家             04/27 01:57
 推 kidla       : 整個系列文 我只讀你文  其他都不看了               04/27 01:57
 → sheng76314  : 這麼偏激的阿 萬一又漏氣怎麼辦                     04/27 01:58
 推 beagle2001  : 整個系列文，某支廢物擺出說教嘴臉講屁話真得看到    04/27 02:05
 → beagle2001  : 先幹再說。這裡正常多了                            04/27 02:05
+※ 編輯: IBIZA (122.116.56.77 臺灣), 04/27/2020 02:19:03
 
 
 --------------------------------------------------------
