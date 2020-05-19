@@ -1,193 +1,3 @@
- 作者  kusomanfcu (POE yea開始急速惡化了（)                       看板  Stock 
- 標題  Re: [新聞] Moderna疫苗早期臨床試驗結果有效                             
- 時間  Tue May 19 01:24:13 2020                                               
-───────────────────────────────────────
-
-The vaccine also produced neutralizing antibodies against Covid-19 in at least
-eight participants, the company said. Experts have said neutralizing antibodi
-es appear to be important in acquiring protection.
-
-為什麼只提最少8人有針對抗體？
-全部測很貴？
-然後前面一段又說的抗體水平高，巴啦巴啦的
-無效抗體單純發炎嗎？
-
-
-45人
-25mg 15人
-100mg 15人
-250mg 15人
-
-反正免疫記憶可能只有一年
-然後和流感一樣遇到變異一大就沒用
-
-https://www.graphen.ai/covid/types.html
-
-https://i.imgur.com/Ipa7H4W.jpg
-
-
-
-
-※ 引述《SnowFerret (雪貂)》之銘言：
-: ※ 引述《Dimitre (迪米崔)》之銘言：
-: : 1.原文連結：
-: : ※過長無法點擊者必須縮網址
-: : https://reurl.cc/GVGreD
-: : 2.原文內容：
-: : Moderna’s closely watched early-stage human trial for a coronavirus vacci
-ne
-: : produced Covid-19 antibodies in all 45 participants, the biotech company
-: : announced Monday.
-: : Each participant was assigned to receive a 25 microgram, 100 mcg or 250 mc
-g
-: : dose, with 15 people in each dose group. Study participants received two
-: : doses of the potential vaccine via intramuscular injection in the upper ar
-m
-: : approximately 28 days apart. Data on a second dose was not available for t
-he
-: : 250 mcg group, the company said.
-: : At day 43, or two weeks following the second dose, levels of binding
-: : antibodies in the 25 mcg group were at the levels generally seen in blood
-: : samples from people who recovered from the disease, the company said.
-: : Antibodies in the 100 mcg had antibodies that “significantly exceeded lev
-el
-: : ” in recovered patients.
-: : The vaccine also produced neutralizing antibodies against Covid-19 in at
-: : least eight participants, the company said. Four participants were assigne
-d
-: : to receive a 25 microgram dose, while the other four received 100 mcg. Lev
-el
-: : of neutralizing antibodies were at or above levels in blood samples, the
-: : company said. Data on neutralizing antibodies for the other participants w
-er
-: : not yet available, Moderna said.
-: : “These interim Phase 1 data, while early, demonstrate that vaccination wi
-th
-: : mRNA-1273 elicits an immune response of the magnitude caused by natural
-: : infection starting with a dose as low as 25 μg,” Tal Zaks, the chief
-: : medical officer at Moderna, said in s statement.
-: : “When combined with the success in preventing viral replication in the lu
-ng
-: : of a pre-clinical challenge model at a dose that elicited similar levels o
-f
-: : neutralizing antibodies, these data substantiate our belief that mRNA-1273
-: : has the potential to prevent COVID-19 disease and advance our ability to
-: : select a dose for pivotal trials,” Zaks added.
-: : There are formally approved treatments for Covid-19, which has killed at
-: : least 315,225 and sickened 4.7 million people worldwide since emerging fro
-m
-: : the Chinese city of Wuhan more than 4 months ago, according to data compil
-ed
-: : by Johns Hopkins University.
-: : Moderna has been fast-tracking work with the National Institutes of Health
-,
-: : an agency within the Department of Health and Human Services, to develop a
-: : vaccine.
-: : The company said the vaccine was generally safe and well tolerated.
-: : The potential vaccine by Moderna contains genetic material called messenge
-r
-: : RNA, or mRNA, that was produced in a lab. The mRNA is a genetic code that
-: : tells cells what to build — in this case, an antigen that may induce an
-: : immune response for the virus.
-: : The phase 1 trial took place at the Kaiser Permanente Washington Health
-: : Research Institute in Seattle, Washington. It tested the vaccine on 45 mal
-es
-: : and non-pregnant females between the ages of 18 and 55.
-: 如果把細菌比喻成敵軍, 抗體就是保護身體的軍隊.
-: 一個正常國家, 只要遭受入侵就會反擊 > 這就是產生抗體.
-: 但是抗體有特異性, 只對某種病毒有效. 拿對付一般感冒的抗體打武漢肺炎是沒有用的
-: 就像是病毒開坦克近來, 我們讓士兵拿50手槍反擊, 叮叮噹噹效果跟BB槍差不多.
-: 應該要找有RPG的抗體過來才對.
-: 回到報導, 這篇報導包含三個訊息
-: 1. 25ug即可引發免疫反應.
-: 這是好消息. 代表只要少量的假想敵就可以讓身體產生軍隊準備抗敵.
-: 2. 100ug劑量產生的的抗體量超過恢復期的量
-: 好消息. 越多假想敵, 身體會製造越多軍隊.
-: 3. 少部分人有副作用, 但無生命危險.
-: 算好消息吧? 至少還不會自己被假想敵幹掉, 尚可接受.
-: 但樣本數低, 擴大接踵後未必不會出現致死.
-: 例如: 流感感冒疫苗還是有案例接踵後致死.
-: 這三點代表這個疫苗是可接受的 (但不代表有效)
-: 但這也並不能說是什麼重大突破, 畢竟疫苗本該就要觸發免疫反應 (促進身體製造軍隊
-)
-: 如果沒辦法, 那不如注射一罐舒跑好了.
-: 以上是這篇新聞所含的訊息
-: 比較重要的應該是這篇新聞內的一段
-: 這是他們自己公司發的
-: https://investors.modernatx.com/news-releases/news-release-details/
-: moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine
-: At this time, neutralizing antibody data are available only for the first
-: four participants in each of the 25 μg and 100 μg dose level cohorts.
-: Consistent with the binding antibody data, mRNA-1273 vaccination elicited
-: neutralizing antibodies in all eight of these participants, as measured by
-: plaque reduction neutralization (PRNT) assays against live SARS-CoV-2. The
-: levels of neutralizing antibodies at day 43 were at or above levels generall
-y
-: seen in convalescent sera.
-: 4. 8個病人有產生可以對付新冠的抗體.
-: 不過他們的意思好像是只做8個取樣, 25ug的病人 x4  100ug的病人 x4
-: 8位都有產生可以對付新冠的抗體.
-: 看上去是100%啦
-: 但是用這消息來看是否有效言之過早, 因為檢驗有沒有效是更後面的事情,
-: 有更嚴格且更可靠的檢驗.
-: 這邊只能說是偷喵看答案. 先給大家聞一下香味, 真香一下. 炒個股票.
-: 有做過研究的都知道, 實驗數據常常報喜不報憂. 就算內行人也常常被忽悠得團團轉.
-: 現在這個聲明來自於自家公司, 也沒有任何數據或是實驗圖片佐證.
-: 到底這個士兵拿的RPG是真的火箭彈, 還是水火箭.
-: 還是要等到第三階段才知道
-: 目前結果大家聽聽就好, 不要真以為是解藥.
-: 補充: 會叫大家不要相信解藥出來了, 是因為這個聲明說"有效", 可中和病毒.
-: 但這個在實驗中的"有效", 其實是個很大的模糊地帶.
-: 就像雅量課文說的, 有人看像稿紙, 有人看像棋盤, 但對我來說它就是塊綠豆糕.
-: 媽的綠豆糕這也差太多了吧.
-: 但你又不能說我錯, 這是"我的"解讀阿.
-: 所以除非論文發出來, 不然就再看看囉.
-: 不過炒股還是可以炒啦
-: 畢竟大家不在乎真相, 只在乎股價.
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.246.105.1 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1589822656.A.836.html
-噓 IBIZA       : 中和抗體跟抗體都分不出來, 就別發這篇了            05/19 01:28
-沒有“完全”中和抗體的話疫苗就是垃圾
-噓 AsuMckD     : 你是不是被軋爆                                    05/19 01:34
-噓 LinBaoYan   : ？                                                05/19 01:37
-噓 elfish123   : 還是可以買口罩股啦                                05/19 01:37
-推 sismiku     : 先噴啊                                            05/19 01:59
-噓 CaTkinGG    : 相信 病毒                                         05/19 02:17
-噓 jesiuty     : 噴到千點頭也不回 已經跟你講答案了還在那猜         05/19 03:11
-推 aneshsiao   : 疫苗是假議題，重點在於解封，有了疫苗只要沒有副作  05/19 03:24
-→ aneshsiao   : 用就有理由解封                                    05/19 03:24
-推 aneshsiao   : 這個一定大漲，重點在於有藉口可以解封，川普早就想  05/19 03:26
-→ aneshsiao   : 解封只是一直被醫學專家蹌不可以                    05/19 03:26
-→ aneshsiao   : 解封經濟活動才能正常，至少可以救航空和石油        05/19 03:27
-→ aneshsiao   : 就算疫苗效價低很多人只是症狀像感冒，沒有副作用就  05/19 03:28
-→ aneshsiao   : 全面施打                                          05/19 03:28
-→ aneshsiao   : 這是疫苗對經濟最大好處，效果其次，經濟恢復正常才  05/19 03:30
-→ aneshsiao   : 是領導人追求的目標                                05/19 03:30
-→ aneshsiao   : 車禍死的人數都差不多，經濟有影響嗎？解封才是疫苗  05/19 03:31
-→ aneshsiao   : 的目的而不是免疫力或效價                          05/19 03:31
-→ simo520     : 你是不是+～粉絲                                   05/19 05:42
-推 kikoman     : 跟gild一樣割一波韭菜                              05/19 06:45
-→ kikoman     : 不要傻傻長多                                      05/19 06:45
-推 K0RVER      : 丸惹 病毒也要抄心經了                             05/19 06:54
-→ SRadiant    : Gild近期股價高點就是在EUA的那時候..               05/19 07:41
-→ kyova       : 買的夠低當然就不怕波動阿...自以為能猜到高低，就   05/19 07:56
-→ kyova       : 一堆人被甩出去了...看看那一堆飆股                 05/19 07:57
-→ kyova       : 現在都輪到嘎空手或賠錢的來勸世，真的好笑...       05/19 07:57
-※ 編輯: kusomanfcu (27.246.105.1 臺灣), 05/19/2020 08:50:37
-→ kusomanfcu  : 很多時候偏偏股價最重要                            05/19 08:52
-→ kusomanfcu  : 騙騙                                              05/19 08:52
-→ kusomanfcu  : gild都說是用垃圾出來騙了XD                        05/19 08:52
-→ kusomanfcu  : gild那時候                                        05/19 08:52
-→ kusomanfcu  : 要買 你更早就該買 現在這種 就最後騙錢的高潮       05/19 08:54
-→ kusomanfcu  : 疫苗救不了經濟別鬧了，全球貧民末端消費開始儲蓄了  05/19 09:00
-→ kusomanfcu  : XD                                                05/19 09:00
-
-
---------------------------------------------------------
-
-
  作者  tvfan (tvfan)                                              看板  Stock 
  標題  Re: [新聞] 特斯拉上海廠供應鏈本土化比重2020年底達                      
  時間  Tue May 19 01:37:40 2020                                               
@@ -2817,6 +2627,113 @@ Call 11100 Put 10400
 → f860506     : 剛剛2000張瞬間被貫穿阿 499combo                   05/19 11:25
 推 benny6513   : 巨大被我一買就漲不動了是怎樣                      05/19 11:25
 → mitntu      : 醫藥權威 也是市場公認最了解新冠肺炎的 郭分析師    05/19 11:25
+推 PorscheAG   : 一堆折黑-.-                                       05/19 11:26
+→ YLTYY       : 拜託你快下車-.-                                   05/19 11:26
+噓 ncc5566     : 看2330 2317 3008你敢信今天台股大漲                05/19 11:26
+推 Coffeewater : 跌破百點 又在偷偷出貨                             05/19 11:26
+→ YLTYY       : AG大不離不棄                                      05/19 11:26
+噓 hiyuy       : KA哲!                                             05/19 11:26
+推 pezon123    : 偷看錯的答案                                      05/19 11:26
+推 AGODC       : 今天8046隨便買隨便賺                              05/19 11:26
+→ qqq87112    : 今天撐GG拉公公                                    05/19 11:26
+推 neilisme    : GG官股了不起幫你守290而已 怎麼可能幫你拉上去      05/19 11:26
+→ rockken     : AG大都自己賺，羨慕噓-.-                           05/19 11:26
+→ s155260     : 普會10一早進場的又套了 收普會11會員               05/19 11:26
+推 jeffery0858 : 折折最近冥燈能力很強==                            05/19 11:27
+噓 EibunnTsai  : 持股綠的要怎麼辦QQ                                05/19 11:27
+推 LoveMentori : 今天黑手又在無恥的拉金融啦，弱勢電子不要破就好嘻  05/19 11:27
+噓 Jerma66     : 誰再說折折壞話 -.-                                05/19 11:27
+推 zxcvb7700   : 普會會員加開中                                    05/19 11:27
+推 puffcuttle  : 99大學光                                          05/19 11:27
+→ qqq87112    : 哲哲點名秀~                                       05/19 11:27
+噓 nobit       : 這一切的一切我都被套在前                          05/19 11:28
+→ rockken     : AG 欠肛嗎                                         05/19 11:28
+→ valdez      : 海公公翻黑...                                     05/19 11:28
+推 z19890506   : 想加入屍哥群                                      05/19 11:28
+噓 PorscheAG   : 誰再說折折壞話-.-                                 05/19 11:28
+推 b551122     : ==你各位世芯316空了沒 當沖現賺10元 天天都爽賺==   05/19 11:28
+推 ignativs    : 為什麼台股這麼弱                                  05/19 11:28
+→ nobit       : 12000以下不管漲跌我都被套在前                     05/19 11:28
+→ Skyblueway  : 黑手拉了10點                                      05/19 11:29
+推 aixiiae2005 : 美食好吃                                          05/19 11:29
+推 j32072      : 五虎道瓊要升天ㄌㄚㄚ                              05/19 11:29
+推 faint3015890: 公公破昨低，相信折折                              05/19 11:29
+噓 EibunnTsai  : 奇蹟什麼時候才來                                  05/19 11:29
+噓 klpp26549871: 99 8046 2368 3037                                 05/19 11:29
+噓 chiy16      : 2008年~2020年520 一堆不知海嘯的 還生出+0891怪物   05/19 11:29
+→ luche       : 打雷了 雨變大                                     05/19 11:30
+推 jenchieh5   : 我真的很喜歡看3008，老闆誠實股價走勢又清楚明瞭…  05/19 11:30
+→ davidaustin : 9914 遜欸                                         05/19 11:30
+推 dabih       : 現在大盤 845 850 五點來回 剛好是GG 291.5 292來回  05/19 11:30
+→ valdez      : 就算哲哲說對趨勢 股票漲 還是被雞蛋挑骨頭QQ        05/19 11:30
+推 qqq87112    : 當年公司如何壯大 如何下市 邏輯很難嗎              05/19 11:30
+→ s155260     : 普會12全力買入公公 殖利率爆表                     05/19 11:30
+→ angel50732  : 乾 5274開盤買就套                                 05/19 11:30
+推 YLTYY       : 下雨天不適合買股票-.-                             05/19 11:30
+推 PorscheAG   : 公公破昨低就受不了，不如退出股市-.-               05/19 11:31
+推 greenleaf520: 醫生驚踩慘慘                                      05/19 11:31
+推 coco100     : 8462柏文 快上車                                   05/19 11:31
+→ st800800800 : 折折30檔持股，只有5檔是黑的，折折好強喔           05/19 11:31
+→ qqq87112    : 阿文公園好多人                                    05/19 11:31
+噓 she0621     : 是不是不給菜英文面子                              05/19 11:31
+噓 feont       : 我累了 我要來賣股票                               05/19 11:31
+→ PorscheAG   : 就算折折說對趨勢 股票漲 還是被雞蛋挑骨頭！        05/19 11:31
+→ chiy16      : +0891 這直銷股票王 這12年產生的奇特產物.......    05/19 11:32
+推 transfight  : QQ。海公公它…………綠惹……                      05/19 11:32
+→ j5163124    :  https://i.imgur.com/paH9yBS.jpg                  05/19 11:32
+推 WBS0615     : 下雨天不忍讓各位睡公園 讓各位住套房               05/19 11:32
+→ sakula248   : 99 2317                                           05/19 11:32
+推 hiyuy       : 這邊很嚴格的 你當天買沒漲個7% 都是被套            05/19 11:32
+→ transfight  : QQ 欣興有沒有辦法一戰平盤成名？？？？             05/19 11:32
+推 carfu       : 可以99舊會員的鴻海嗎                              05/19 11:32
+→ transfight  : QQ豪刺激啊啊啊啊啊啊啊啊啊啊啊啊！                05/19 11:33
+噓 klpp26549871: 99 8046 3037 2368                                 05/19 11:33
+推 playgun921  : 大哥繼續出貨?                                     05/19 11:33
+→ luche       : 8046再二根會變牢房                                05/19 11:33
+推 YOYOISGOOD  : 昨天進場隔日沖的大概都跑了 現在看大戶和上班族要   05/19 11:33
+→ YOYOISGOOD  : 不要表態了                                        05/19 11:33
+噓 ENJA        : 可以救救90T的鴻海學弟嗎？各位學長                 05/19 11:33
+推 chen0625    : 哲哲99 2317                                       05/19 11:33
+推 swavi       : 這盤有毒............慢走不送                      05/19 11:33
+→ transfight  : QQ大盤漲百點……海公公它…綠惹                    05/19 11:33
+推 YLTYY       : 自己買在高點不關投資長的事，你不會買其他投資長    05/19 11:34
+→ melonQ      : 8046兩根也太誇張了                                05/19 11:34
+→ YLTYY       : 推薦的股票嗎-.-                                   05/19 11:34
+推 AGODC       : 前2天有人好嗆說海公公線型沒gg空?看圖說故事誰不會  05/19 11:34
+→ AGODC       : ，但是你看得到之後的走勢嗎？...現在海公公線都破   05/19 11:34
+→ s155260     : 公公最後攤平機會                                  05/19 11:34
+噓 EibunnTsai  : 奇蹟快來...越等越崩...                            05/19 11:34
+→ ojh         : 明天要見証520大崩盤了                             05/19 11:34
+→ AGODC       : 完了啦                                            05/19 11:34
+推 feont       : 電子就是要殺啦 就是這麼簡單                       05/19 11:34
+噓 zaqqaz      : V V V V V V V V 哥急拉姍姍來遲~ 快逃阿 ^^         05/19 11:34
+→ firemothra  : 520權值股全部崩崩                                 05/19 11:35
+推 Epmetheus   : 遊戲BOY...                                        05/19 11:35
+→ YLTYY       : 怎麼變攤平機會了XD                                05/19 11:35
+推 smarthome   : 鴻海早上漲的本來就沒道理，出貨剛好                05/19 11:35
+推 MSmax       : 2317翻黑...投資長...                              05/19 11:35
+噓 she0621     : 6533最後上車                                      05/19 11:36
+噓 hoin        : 國光南下接客 要上快上 我是說空軍                  05/19 11:36
+→ firemothra  : 雞雞290城牆也不夠厚                               05/19 11:36
+噓 klpp26549871: 8046哪個追高殺低的輸家法人程式又當機在亂倒        05/19 11:36
+推 chiy16      : 2008年我們準備好了 VS 2020年滿滿台灣價值  520殺   05/19 11:36
+→ s155260     : 翻黑是讓你攤平用的 不是讓你怪透支長的             05/19 11:36
+推 pezon123    : 台股就死撐在這的阿 萬一怎麼過                     05/19 11:36
+→ st800800800 : 套鴻海的幹嘛不買五虎？都免費送資尿，送五虎了      05/19 11:36
+→ j32072      : 客運38車票沒買到的 現在50也便宜                   05/19 11:36
+→ rockken     : 越套越多，套到大富翁                              05/19 11:36
+→ j32072      : 股票買便宜不買貴 拉回是加碼用的                   05/19 11:37
+推 XX          : 一堆折黑                                  AG折黑  05/19 11:37
+推 kevinmeng2  : 外資表示：提款機還很有錢！繼續提款                05/19 11:37
+推 YLTYY       : T大呢-.-，連兩天沒見                              05/19 11:37
+→ chiy16      : 我都不知道520行情往上慶祝的 只知2008年........    05/19 11:37
+推 wekl        : 怪 石油正1為什麼也翻黑了                          05/19 11:37
+推 CSLsong     :  https://i.imgur.com/0Dx7Nr1.jpg                  05/19 11:37
+推 transfight  : QQ 公公最後攤平機會！XDDDDDDDD                    05/19 11:38
+推 fdd486      : 3189假破季線，哈哈哈                              05/19 11:38
+推 b551122     : ==你各位世芯316空了沒 當沖現賺11元 最後放空機會=  05/19 11:38
+推 vapour1001  : 萬一沒機會了嗎？                                  05/19 11:38
+→ matlab1106  : 黑手被外資提很爽                                  05/19 11:38
 
 
 --------------------------------------------------------
@@ -2938,8 +2855,10 @@ https://bit.ly/2WGsHqn
 → rainsilver  : 台灣現在回到檔境外就好                            05/19 10:48
 → orange21    : 先開放國內產業用的可以趕快大量買好嗎              05/19 10:53
 → j5163124    : 這個人不用理他啦，等著看他空單被嘎爆              05/19 10:55
+我又沒放空口罩股，是在搞笑嗎？
 噓 projectd7983: 看到樓上一個免疫學讀幾遍 就又變成口罩專家 根本搞  05/19 10:59
 → projectd7983: 笑咖                                              05/19 10:59
+※ 編輯: zakijudelo (49.216.128.70 臺灣), 05/19/2020 11:26:34
 
 
 --------------------------------------------------------
@@ -3001,6 +2920,7 @@ https://udn.com/news/story/7254/4572966?from=udn-catebreaknews_ch2
 推 jy75123     : 拉一段                                            05/19 10:48
 → rutsuki     : https://pse.is/SGPNB 之前分析                     05/19 11:07
 推 One102bird  : 神盾衝哦                                          05/19 11:08
+推 rosy        : 強強合作天下第一                                  05/19 11:30
 
 
 --------------------------------------------------------
@@ -3120,6 +3040,15 @@ https://tw.appledaily.com/property/20200519/GABDLJYF3KRW54X6RAM5S2VXDI/
 噓 eric111043  : 所以你開始空2330了沒                              05/19 11:09
 推 TuDu        : 這支八腦真是 呵呵ASML 是美國的嗎?                 05/19 11:14
 推 wulaw5566   : 除非東京電子果然大爆發東山再起，否則不可能        05/19 11:16
+噓 ku399999    : 好像美國是針對台積電一樣                          05/19 11:29
+→ ku399999    : 台灣不可能什麼都自己來啦 現在這樣站著重要的一角   05/19 11:31
+→ ku399999    : 談條件已經很吃力了                                05/19 11:31
+→ ku399999    : 連美國都沒有全部自己來 但是要在可信任的"盟友"手   05/19 11:32
+→ ku399999    : 裡                                                05/19 11:32
+推 squeakywheel: 可憐哪 有些人就愛幻想台gg親美                     05/19 11:34
+→ ku399999    : 不要幻想站在美國的對立面還能過得很好              05/19 11:34
+→ ku399999    : 台積不親美啊 就為了生意他得像美國示好 就是生意人  05/19 11:38
+→ squeakywheel: 不親美就崩潰，唯美是尊的心態，跟中國有什麼不一樣  05/19 11:38
 
 
 --------------------------------------------------------
@@ -3317,6 +3246,7 @@ RNA（mRNA）的藥物發現和藥物開發。[2]該公司正嘗試創建合成�
 推 WADE0616    : 你只要搶的到 隔天就是賺10% 輕鬆好賺!!!            05/19 10:47
 推 tim0120     : 能炒題材就能漲停 誰理你有沒有效                   05/19 11:18
 推 pcner081959 : 單純只是題材，解藥或疫苗機會慎低；                05/19 11:24
+推 Chuckj      : XD 神秘moderna                                    05/19 11:33
 
 
 --------------------------------------------------------
@@ -3452,6 +3382,9 @@ https://i.imgur.com/DnHQSKz.jpg
 → IBIZA       : 風險接近100%                                      05/19 11:23
 → IBIZA       : UAL大概一半                                       05/19 11:23
 → IBIZA       : 之前西南航空跌得不夠多, 現在LUV真的可考慮         05/19 11:25
+→ IBIZA       : 西南是四大裡面唯一一家債評還不是垃圾債的          05/19 11:26
+推 jerrylin    : 法人都沒買?  難道美股都是散戶買上去的??           05/19 11:30
+→ jerrylin    : AAL應該再過不久就會有破產重組的新聞了吧ww         05/19 11:31
 
 
 --------------------------------------------------------
@@ -3557,6 +3490,27 @@ https://i.imgur.com/DnHQSKz.jpg
 → SweetLee    : 積電抽單啊                                        05/19 11:25
 → peter8543   : 相信中國媒體 邏輯就有很大的問題了                 05/19 11:25
 推 HAHAHUNG    : 以為晶片是石油嗎==                                05/19 11:26
+推 billionaire : 其實無所謂                                        05/19 11:26
+→ tke         : 五毛們好 這裡講支那肺炎共匪賤畜都不會被河蟹喔     05/19 11:27
+推 okbon66     : 意淫很爽嗎?                                       05/19 11:28
+噓 aki55j      : 笑死了 嘴砲                                       05/19 11:29
+推 SweetLee    : 中國把台積電買下來自己經營管理 然後沒兩年台積電   05/19 11:29
+→ SweetLee    : 良率變得比三星低 然後中國廠商沒好晶圓廠可下單這   05/19 11:29
+→ SweetLee    : 樣？自己拿錢砸自己的腳？                          05/19 11:29
+→ dferww55    : 中國與其買台積電,還不如開高價挖人,人過去技術也就  05/19 11:29
+推 xhink       : 要打台灣快點來打wwwwww                            05/19 11:29
+→ dferww55    : 有了,這幾天中芯大漲                               05/19 11:29
+推 THEHELY     : 喊了幾十年了 會咬人的狗不會叫                     05/19 11:30
+推 nbarepeat   : 真真假假 甲甲珍珍                                 05/19 11:31
+→ decorum     : 中資投資有法律把關 需要政府審查 豈是錢多就成的    05/19 11:32
+噓 ayumi74825  : 五毛不是都用蘋果嗎 停華為對他們又沒差             05/19 11:32
+推 RuleAllWorld: 不用打，圍一下，我沒晶片，全世界也別想有          05/19 11:33
+→ firemothra  : 美國在逼中國先出手阿，看中國是不是這麼笨          05/19 11:33
+→ decorum     : 台積是重中之重 絕對是最嚴格標準審核經營權         05/19 11:34
+推 stilu       : 打下台灣笑噴                                      05/19 11:34
+推 kevinmeng2  : 發現有些人真的是來當韭菜的，哈，基本常識都沒有    05/19 11:34
+噓 ridodo      : 打下臺灣xddddd                                    05/19 11:35
+推 j32072      : 聽中國的就對了 相信黨                             05/19 11:35
 
 
 --------------------------------------------------------
@@ -3625,6 +3579,7 @@ Sent from JPTT on my Asus ASUS_X00TDB.
 → YCL13       : 不過新聞也說這種是救不了精品產業的                05/19 11:09
 推 ndnfccy     : 多下載幾個大陸的APP來了解一下大陸人真實生活吧     05/19 11:12
 → ndnfccy     : 不要單靠自己想像                                  05/19 11:12
+推 pideo       : 失業狂潮降臨，還能報復消費多久？                  05/19 11:29
 
 
 --------------------------------------------------------
@@ -3697,6 +3652,11 @@ https://www.setn.com/News.aspx?NewsID=745289
 推 awss1971    : 樓上某樓回的好...                                 05/19 11:22
 → awss1971    : 真的反指標.....                                   05/19 11:23
 推 kimkim9988  : 要V了，謝謝金河                                   05/19 11:24
+推 blackhores  : 史上最廢                                          05/19 11:29
+推 xsoho       : 若是反指標明天這些應該都漲停板                    05/19 11:32
+噓 idmaker     : 第一季財報根本沒人在管，全台股第一季都馬衰退，    05/19 11:34
+→ idmaker     : 之前大跌不就在別跌這個                            05/19 11:34
+噓 teenyhey    : 幹話尚書大人                                      05/19 11:38
 
 
 --------------------------------------------------------
@@ -3781,6 +3741,90 @@ http://www.facebook.com/musclestock
 推 Coordinate  : 明天又漲回去了吧                                  05/19 11:25
 → ceca        : 你的退休金和稅金不知道在元大油二裡面虧多少        05/19 11:26
 → ceca        : 你要想，崩盤以前，誰在買油二，尤其元大油二        05/19 11:26
+→ pigofwind   : 反正他帶著感謝函拍拍屁股高升了，看後面誰要擦屁股  05/19 11:26
+推 asdfqwer63  : 到9月變數多，下個月疫苗說不定就可以打了           05/19 11:26
+→ ceca        : 除了石化相關產業外，就是各大法人基金              05/19 11:26
+→ kevinmeng2  : 居然有人認為跟福利熊無關？信仰阿！                05/19 11:27
+推 justhandsome: 洗個盤不用怕                                      05/19 11:27
+→ ceca        : 因此，你以為為啥福利熊不敢讓元大清算              05/19 11:27
+→ ceca        : 並且為啥要維持高溢價                              05/19 11:27
+推 a0980637149 : 可憐哪 沒腦賭徒沒人想理                           05/19 11:27
+→ ceca        : 不維持高溢價，結算虧損，就有人要下臺了            05/19 11:27
+→ Ceferino    : 做人別太雞婆，好心勸人感覺跟叫人吃屎的感覺一樣    05/19 11:28
+推 stlinman    : 7萬人感謝成功化解金融問題，高升國安會秘書長 !     05/19 11:28
+推 hito21      : 10做到30 送分題~ 舒服...                          05/19 11:29
+推 doritos100  : 下臺沒人罩了，慘                                  05/19 11:30
+→ hito21      : 為什麼要拿錢給別人幫你投資...而且還比自己差的???  05/19 11:30
+推 ken072271975: 原來菲神還有在看股版 股市上的人生目標             05/19 11:30
+噓 poemgod     : 今天一早7月油從32.81跌到31.23，你跟我說油大漲     05/19 11:31
+推 centaurjr   : 油價都快40了不賣甚麼時候要賣?                     05/19 11:31
+→ centaurjr   : 真以為會回到40以上嗎XD                            05/19 11:31
+推 hito21      : 一生一次的6.5塊 便宜油回不去了~                   05/19 11:32
+推 poqwmnzx25  : 看到有人買這檔被套死 很舒服啊                     05/19 11:33
+→ hito21      : "之前"~低幹桿的wti竟然沒人敢買XD 哈哈哈~          05/19 11:34
+推 CodyBro     : 昨天俺USO都獲利一波了內                           05/19 11:34
+→ poqwmnzx25  : 一個賠60萬 一個賠110萬 ㄏㄏ                       05/19 11:34
+→ matlab1106  : 這檔不是追蹤福利熊嗎? 福利熊下台當然會跌啊        05/19 11:34
+推 youngblood  : 貪貪穩贏的腦殘                                    05/19 11:36
+推 AGODC       : 油回40?在傻什麼...產能開下去就又跌死了好嘛..      05/19 11:36
+推 devirnt     : 正0.98？                                          05/19 11:36
+推 hito21      : 批評賭懶熊小心被查水表~ 太可怕了~                 05/19 11:36
+
+
+--------------------------------------------------------
+
+
+ 作者  mOoOm ( Simon)                                             看板  Stock 
+ 標題  [新聞] IHS預估「開根號」型復甦 全球完全恢復要                          
+ 時間  Tue May 19 11:38:03 2020                                               
+───────────────────────────────────────
+
+IHS預估「開根號」型復甦 全球完全恢復要
+
+UDN 葉亭均
+
+隨著投資人將注意力轉向經濟重啟後的復甦之路，一些經濟學家警告說，在一切順利的情
+況下，全球經濟可能得花上多達三年時間，才能恢復至疫情前的水準。IHS經濟學家更預
+估，復甦型態可能會是「開根號型復甦」（√￣）。
+
+巴隆周刊（Barron's）報導，研究機構 IHS Markit 在18日公布的報告中預測，全球經濟
+要全面復甦，得耗費二至三年時間。目前，美國正邁向第2季國內生產毛額（GDP）經年化
+後萎縮約40%的疲態情況。聯準會主席鮑爾周末接受CBS新聞節目「60分鐘」專訪時表示，
+可能要到2021年底才會經濟復甦。
+
+IHS Markit經濟學家預期今年全球GDP將下滑5.5%，萎縮幅度是全球金融危機後下滑幅度
+的逾三倍，而且還有向下修正的風險。
+
+IHS Markit表示：「由於新冠病毒無情的壞消息和數據…以及經濟大屠殺，經濟在好轉前
+，短期內惡化的可能性很高。」
+
+由於疫情發展、疫苗問世時間與有效性的不確定性，以及對消費者支出造成的衝擊，都讓
+任何較長期的經濟預測面臨諸多變動因素。
+
+IHS Markit表示，上述預估有三個假定前提，第一是全球新感染病例數將在夏季末攀抵高
+峰，第二是在2021年底或2022年初能大規模供應疫苗，第三為封鎖措施會在夏季與秋季逐
+步持續放寬。
+
+IHS表示，這些假定前提意味世界在未來一年一步步邁向正常化。然而，該研究機構指出
+，已重新開放的經濟地區顯示，消費者依然極度審慎。例如在中國大陸武漢，多數工廠已
+恢復運作，但餐廳依然門可羅雀。
+
+IHS警告說：「雖然受重創的經濟地區短期內將迅速恢復成長，但動能將會很快消退。」
+
+目前正值許多經濟學家的討論焦點，從V型或U型復甦，轉向W型復甦，但IHS另外提出一種
+新的復甦型態，即「開根號型復甦」（√￣）。
+
+https://udn.com/news/story/6811/4573949
+
+心得/評論：
+大家不用猜了 不是V 不是W 而是根號!!!「開根號型復甦」（√￣）。
+所以現在是在根號的哪段呢
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.40.28.177 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1589859485.A.2B4.html
+※ 編輯: mOoOm (114.40.28.177 臺灣), 05/19/2020 11:38:30
+推 cuteSquirrel: 開根號*10                                         05/19 11:39
 
 
 --------------------------------------------------------
