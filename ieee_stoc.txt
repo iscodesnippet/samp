@@ -1,148 +1,3 @@
- 作者  z22744388 (熊熊)                                           看板  Stock 
- 標題  [新聞] USO被唯一期貨經紀RBC通知 不能再買部位                           
- 時間  Sun May 24 21:41:46 2020                                               
-───────────────────────────────────────
-
-
-
-1.原文連結：
-※過長無法點擊者必須縮網址
-
-MarketInsider
-https://reurl.cc/O16Kev
-
-2.原文內容：
-
-A wildly popular oil ETF has been cut off by its broker from buying futures, l
-imiting its ability to meet its investment objective (USO)
-
-RBC Capital Markets has informed United States Commodity Funds, the operator o
-f the USO ETF, that they may no longer hold positions in or buy oil futures co
-ntracts until further notice, according to a Thursday SEC filing made by the E
-TF.?
-
-As a result of RBC's actions, USO says it may hold larger amounts of treasurie
-s and cash, "which will further impair USO's ability to meet its investment ob
-jective," according to the filing.
-
-Following unprecedented volatility in the oil markets, which briefly caused oi
-l prices to turn negative last month,乸 wildly popular trading ETF has been ba
-rred by its broker from buying or holding oil futures contracts. That will lim
-it its ability to meet its investment objective, according to an SEC filing su
-bmitted on Thursday.
-
-USO, an ETF owned and operated by United States Commodity Funds, was informed
-by its only Futures Commission Merchants, RBC Capital Markets, that it is proh
-ibited from holding or buying oil futures contracts until further notice.?
-
-According to the filing, "RBC has indicated that such limitation on USO is a r
-esult of RBC's own internal risk management requirements and directions it has
-received from other regulators in the United States, Canada, and the United K
-ingdom."
-
-In the mean time, USO has been looking to enter additional FCM agreements so i
-t can resume purchasing oil futures contracts, but has yet to enter an agreeme
-nt.
-
-The restrictions from RBC are impairing USO's ability to meet its investment o
-bjective.
-
-"[USO] may be required to invest in other permitted investments including othe
-r oil-related interests and may hold larger amounts of Treasuries, cash and ca
-sh equivalents, which will further impair USO's ability to meet its investment
-objective," the filing said.
-
-USO's investment objective is to track a benchmark of short-term oil futures c
-ontracts that closely reflect the spot price of crude oil.
-
-The USO ETF is "still trading and able to rebalance and roll its portfolio," U
-nited States Commodity Funds CEO John Love said,乸ccording to FT.
-USO has seen an explosion in popularity among traders.
-
-Data from Robintrack.net shows that the number of Robinhood accounts that own
-the USO ETF surged more than 2000%, from ~8,000 in early February to more than
-170,000 today.
-
-Despite being down -75% year-to-date, assets under management in USO have more
-than quadrupled from $1 billion in early 2020 to $4.6 billion today, accordin
-g to data from YCharts.
-
-
-3.心得/評論：
-※必需填寫滿20字
-
-本文主要說目前USO唯一的期貨經紀RBC通知，沒有進一步通知下，考量內部風險控管，US
-O不能再進一步買期貨部位。(就算有投資人持續丟錢進去，目前可能會加大債券或現金或
-類似油swap等非期貨合約)或者再找別家期貨商合作(目前沒有進一步公告)
-
-這篇已經是前兩天新聞了，目前看到板上還沒有文章分享一下，就算資產再增加下去，更
-難追蹤績效表現(這應該不是新聞了哈哈)
-
-另外分享 youtuber  Fed Observer的影片
-https://youtu.be/Vab3ype0zGQ
-(前面是簡述ETF，跟提一下RBC這個新聞，
-有興趣可以直接從以下看，不一定都是對的，參考參考)
-
-7:00 講這次油價下跌，散戶一窩蜂進追蹤油期的ETF，導致要一直買進期貨部位儘可能達
-到追蹤指標的目標，結果就是幾乎買了25%市場份額，等到要換倉就爆了
-
-8:50 負油價事件後回，ETF發行商兩個做法 -無法長期負荷虧損不玩了或是改變策略
-(例如USO主動式的調整期貨遠月)
-
-11:50  講本文RBC通知
-最後也提到Hedge Fund看到散戶一窩蜂搶進就大空，因為他們知道發生什麼情況，結論還
-是呼籲大家要知道自己買什麼
-
-最後有提到若要買追蹤商品的ETF，不如買期貨或是挖礦公司股票，不過目前只有黃金ETF
-直接持有黃金，相比油真的好點…
-
-(台灣不能直接持有，都是期貨商品，基金的話也只能買公司股票，所以投資黃金，去開
-簿子或是歐美掛牌ETF吧)
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.11.135.103 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1590327708.A.8FA.html
-※ 編輯: z22744388 (39.11.135.103 臺灣), 05/24/2020 21:42:47
-※ 編輯: z22744388 (39.11.135.103 臺灣), 05/24/2020 21:45:25
-推 kusomanfcu  : 黃金etf沒有持黃金好嗎。。。都是期貨轉月           05/24 21:48
-→ IBIZA       : 很多黃金ETF是持有實體黃金, 最常見的GLD就是了      05/24 21:50
-推 smallfu5945 : 一樓不懂裝懂呵呵                                  05/24 21:53
-→ z22744388   : https://i.imgur.com/GyrcSOg.jpg                   05/24 21:56
-→ z22744388   : 一樓不要嚇人                                      05/24 21:56
-※ 編輯: z22744388 (39.11.135.103 臺灣), 05/24/2020 21:57:52
-※ 編輯: z22744388 (39.11.135.103 臺灣), 05/24/2020 21:58:13
-※ 編輯: z22744388 (39.11.135.103 臺灣), 05/24/2020 21:59:32
-→ IBIZA       : 黃金不像原油, 黃金體積小單價高容易保存, 不做槓桿  05/24 22:02
-→ IBIZA       : 的話直接買現貨很容易                              05/24 22:02
-推 kusomanfcu  : 少數才有，大部份都沒有                            05/24 22:03
-推 percy10442  : 一銀金，臺銀金                                    05/24 22:04
-→ kusomanfcu  : GLD相對管理費高不是沒原因的                       05/24 22:05
-推 evaal       : 一樓到底...                                       05/24 22:07
-→ z22744388   : GLD GLDM IAU....不要堅持但也只能說的確成本高 也   05/24 22:15
-→ z22744388   : 不少很多人能都這樣做就試了                        05/24 22:15
-→ z22744388   : 錯字好多更正一下， 不是很多人能這樣做             05/24 22:15
-推 mOoOm       : 被一樓嚇到XD想說明明有                            05/24 23:19
-→ ffaarr      : 一樓大概只知道台灣的黃金ETF                       05/24 23:41
-→ ffaarr      : 不過除了黃金以外，白銀白銀鉑金ETF也有實際持有     05/24 23:43
-→ ffaarr      : 上行第二個白銀應該是「白金」                      05/24 23:44
-→ ffaarr      : 然後應該是「鈀金」                                05/24 23:45
-→ ffaarr      : 黃金ETF大部分都是實體的啊，費用也沒比較高。       05/24 23:45
-→ ffaarr      : 期貨的黃金ETF比較少，而且費用反而比較高吧。       05/24 23:46
-→ ffaarr      : https://reurl.cc/Mv2EKp 參見這篇美國只DGL是期貨   05/24 23:47
-→ ffaarr      : GLD是比其他幾支實體黃金ETF高，但也沒真的很高。    05/24 23:48
-→ abyssa1     : 直接持有黃金會不會有其他風險啊 監守自盜？         05/25 00:23
-推 aicaca      : USO應該還是會想辦法找到新的期貨經紀吧，不太可能   05/25 00:27
-→ aicaca      : 持倉到清算拿現貨，無法想像怎麼操作，比較好奇是    05/25 00:27
-→ aicaca      : 為什麼RBC突然不接USO的單了，怕被倒帳嗎？          05/25 00:27
-→ z22744388   : https://i.imgur.com/yfZYJwQ.jpg                   05/25 07:32
-→ z22744388   : 雖然NYMEX, ICE有直接限制USO持有期貨部位要求，RBC  05/25 07:34
-→ z22744388   : 雖然有考慮到這點，但看filing 文件marked那句，又   05/25 07:34
-→ z22744388   : 又不限於，所以還是內部風控關係(以當時看25%份額    05/25 07:37
-→ z22744388   : 全掛在這家，風險太大了…)                         05/25 07:37
-
-
---------------------------------------------------------
-
-
  作者  callme5f (callme5f)                                        看板  Stock 
  標題  [標的] 台燿(6274)                                                      
  時間  Sun May 24 22:16:53 2020                                               
@@ -332,6 +187,7 @@ https://news.ltn.com.tw/news/world/breakingnews/3175481
 推 leaveleft   : 台灣價值電視台：台灣疫苗獨步全球，超前部署，我    05/25 05:07
 → leaveleft   : 們要集資刊登紐時讓全世界知道我們可以幫助疫苗研    05/25 05:07
 → leaveleft   : 發！！！                                          05/25 05:07
+推 jesiuty     : 其實可以號召多一點 群體免疫就快了 嘻嘻            05/25 07:53
 
 
 --------------------------------------------------------
@@ -649,6 +505,7 @@ https://trib.al/s6Tjj5C
 推 rodney92    : 新加坡本來就是跪著舔中的共產國家啊                05/25 07:48
 推 centaurjr   : 民主對立是極權國家                                05/25 07:50
 → centaurjr   : 共產國家早就在這世界上死光了                      05/25 07:51
+推 nightwing   : 中國政府  政治上共產  經濟上不共產啊              05/25 07:53
 
 
 --------------------------------------------------------
@@ -1088,6 +945,11 @@ All in翻身的機會又來了嗎？
 推 km612tw     : 輸出民運領袖這點子不錯 綠共除了錢就這種人最多     05/25 07:34
 推 nightwing   : 香港回歸一國一制  港澳條例就不符現實了            05/25 07:38
 推 scum5566    : 剛看新聞 搞不好港奧條例真的會修法                 05/25 07:50
+推 topahot9303 : 今日香港                                          05/25 07:57
+→ nightwing   : 明日新加坡                                        05/25 08:01
+→ rongyaya    : 台灣管好自己吧 正義執行都是美國的事               05/25 08:02
+推 REXA        : 太閒了吧...讓美國去介入吧                         05/25 08:04
+→ nightwing   : 台灣不要公親變事主就好啦  讓中美去打架            05/25 08:04
 
 
 --------------------------------------------------------
@@ -1129,6 +991,9 @@ All in翻身的機會又來了嗎？
 → kyova       : 都已經幾十隻腳了，追一下進度好嗎                  05/25 03:10
 → eemail      : 你該看一下大國每年死亡人數                        05/25 07:01
 → eemail      : 而不是只會用俗語                                  05/25 07:03
+推 aresa       : 國情不同，美國人選擇跟病毒硬幹是可以想像的，民族  05/25 08:02
+→ aresa       : 性刻在DNA裡，人家就有膽子造飛機上天空不怕摔，我   05/25 08:02
+→ aresa       : 覺得不用預設太多立場，資金分配得宜注意風險就好了  05/25 08:02
 
 
 --------------------------------------------------------
@@ -1218,6 +1083,11 @@ All in翻身的機會又來了嗎？
 推 bestmoe     : 先知總是寂寞                                      05/25 07:47
 噓 agvnol      : 崩到8044依據在哪？                                05/25 07:50
 推 vesta9      : 喔                                                05/25 07:51
+推 s70cf1663   : 今天開高走低機率高好嗎                            05/25 07:53
+推 davidtai12  : ??                                                05/25 07:53
+噓 rongyaya    : 醒醒 少輸一點                                     05/25 08:01
+推 JOKERPLUS02 : 推高點以後比較好找                                05/25 08:01
+→ geral74026  : 空單貼出來 大家就會尊敬                           05/25 08:05
 
 
 --------------------------------------------------------
@@ -1269,6 +1139,8 @@ All in翻身的機會又來了嗎？
 推 hedgehogs   : 講出貨的有證據嗎                                  05/25 07:22
 推 BHooo       : 為酸而酸而以                                      05/25 07:23
 推 rollen      : 對呀一直發出貨文，然後出了一年出到要選董事了。    05/25 07:32
+推 ataiwu      : 陳爸我已經支持你了！！                            05/25 07:54
+推 wald5566    : 通知書上面有寫是幫誰委託吧                        05/25 08:04
 
 
 --------------------------------------------------------
@@ -1380,6 +1252,87 @@ https://tinyurl.com/yblxmavy
 推 mecca       : 阿共:不讓我送中  我直接進駐                       05/25 07:47
 推 augustlion  : 如果真的是這樣 那股市跌個屁                       05/25 07:51
 → oo98560     : 財產保障? 共產國講保障XD                          05/25 07:52
+推 slrmbenz    : 好奇習怎想開搞香港？                              05/25 07:53
+→ idernest    : 等著看金門超越香港                                05/25 07:54
+→ augustlion  : 我比較想看川普怎麼搞香港 嘻嘻                     05/25 07:54
+推 good5755    : 建議廢除港幣 直接用人民幣無縫接軌                 05/25 07:55
+→ nightwing   : 習近平崇拜毛澤東  厭惡鄧小平                      05/25 07:55
+推 apolloapollo: 肛港仔給川皇看阿                                  05/25 07:55
+推 ktv810504   : 比較想看中美互爆後股市一起下去                    05/25 07:55
+推 tim2468x    : 幽默哦～                                          05/25 07:55
+推 nicholaslee : 可憐哪~                                           05/25 07:56
+噓 Robertxie   : 排隊舔 一群狗                                     05/25 07:58
+噓 jing0607    : 看妮港仔多會鬧，血肉之軀能鬧多久?有多少眼睛可以   05/25 07:58
+→ jing0607    : 被打?                                             05/25 07:58
+推 jo78jo78    : 習搞香港是因為九月香港要選舉，怕慘敗面子掛不住，  05/25 08:03
+→ jo78jo78    : 面子比人民重要                                    05/25 08:03
+噓 geral74026  : 跟CHO87%像                                        05/25 08:04
+
+
+--------------------------------------------------------
+
+
+ 作者  WAXNSIM (咖啡地獄奶茶天使)                                 看板  Stock 
+ 標題  [新聞] NB面板漲價 雙虎受惠                                             
+ 時間  Mon May 25 08:02:02 2020                                               
+───────────────────────────────────────
+
+NB面板漲價 雙虎受惠
+
+2020-05-24 22:55
+經濟日報
+記者李珣瑛╱新竹報導
+
+1.原文連結：
+https://money.udn.com/money/story/5710/4587264
+
+2.原文內容：
+
+5月下旬面板報價走勢不同調，大尺寸電視面板受疫情導致全球經濟放緩，以國際運動賽
+事停辦或延遲拖累，下跌3%至6%；資訊科技（IT）用面板受惠遠距應用商機大開，筆電面
+板漲約0.4%，面板雙虎群創（3481）、友達強攻利基型應用，營運相對有撐。
+
+根據集邦科技旗下光電研究（Witsview）最新報價，5月下旬55吋面板價格為103美元，較
+月初下跌4美元，減幅3.7%；43吋為67美元，跌2美元，跌幅2.9%；32吋32美元，跌2美元
+，跌幅5.9%。
+
+至於監視器面板及較大尺寸的17.3吋筆電面板報價則持平；而11.6吋及14吋筆電面板報價
+漲則漲約0.4%。
+
+即便大尺寸面板價格回檔，但雙虎已有因應策略，強攻利基型領域應用。群創預估，本季
+大尺寸面板出貨量將較上季顯著成長，平均單價（ASP）季減3%以內；中小尺寸面板出貨
+量季增約15%，平均單價（ASP）與上季持平。
+
+群創認為，本季因疫情造成全球經濟放緩及國際運動賽事延遲或停辦，導致電視面板需求
+疲弱，但下半年各國陸續邁入復工階段以及韓廠關廠效應浮現，電視面板需求可望逐季回
+溫。
+
+另外，筆電及顯示器產品因企業及學校推動在家辦公及遠距教學，本季資訊科技面板需求
+將維持暢旺。智慧手機部份，預期5G基礎建設將持續佈建以及下半年的傳統旺季，中小尺
+寸面板需求將逐季回穩。
+
+友達也看好，本季大尺寸面板出貨量將季增20%， 平均單價季減 4%至%；中小尺寸出貨量
+將季減1%至3%；產能利用率則將視市場狀況動態調整。
+
+友達董事長彭又又浪在法說會中預估，第2季營收表現會比首季好，友達將保持營運的動
+態調整彈性，抓住所有成長機會的產品，也讓受衝擊產品獲良好控制。他並強調，友達會
+做好「開源節流、快速調整、及價值轉型」三件事，進一步改善虧損。
+
+3.心得/評論：
+
+另外有新聞說：電視面板跌價 6月面臨現金成本保衛戰
+
+但是新聞又報：雙虎TV面板營收占比 下探三成
+期望緩和面板跌價的衝擊
+
+加上這則新聞，所以，雙虎要飛天了嗎？
+
+--
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1590364926.A.523.html
+※ 編輯: WAXNSIM (61.64.209.220 臺灣), 05/25/2020 08:02:25
+推 bear7977    : 出貨文                                            05/25 08:02
+推 mclaren99   : 買了                                              05/25 08:03
+→ aresa       : 這兩週新聞一天多一天空的，真是看不懂XD            05/25 08:03
 
 
 --------------------------------------------------------
