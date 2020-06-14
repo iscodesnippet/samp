@@ -1,101 +1,3 @@
- 作者  z22744388 (熊熊)                                           看板  Stock 
- 標題  [新聞] 油油USO 准增10億新單位 (非買賣建議)                             
- 時間  Sun Jun 14 11:19:01 2020                                               
-───────────────────────────────────────
-
-
-
-1.原文連結：
-https://reurl.cc/lV2Za6
-
-2.原文內容：
-
-United States Oil Fund Receives Green Light to Issue New Shares
-
-By Reuters  June 12, 2020
-
-
-USO's registration of 1 billion new shares has been declared effective by the
-Securities and Exchange Commission, the fund said, and hence it can once again
-allow authorized purchasers, or market makers for exchange-traded products, t
-o issue new USO shares.
-USO shares were little changed on Friday at $26.35.
-On April 21, the fund stated that it had issued all of its registered shares a
-nd was thus suspending the creation of new shares. As a result of the suspensi
-on, there was a significant discrepancy between the fund's trading price and t
-he performance of the oil futures it held.
-Following a sharp plunge in oil, in which expiring May U.S. crude contracts tr
-aded at negative prices, USO took in heavy inflows from investors betting on a
-rebound.
-
-Oil prices have in fact risen substantially since then. Even with losses this
-week, U.S. crude was trading near $36 a barrel on Friday, about $10 higher tha
-n a month ago.
-Even so, because later-dated oil futures are currently trading at higher price
-s than nearer-dated futures - a phenomenon called contango - USO's structure r
-equires it to sell cheaper futures to buy more expensive ones as nearer-dated
-contracts expire. As a result, investors who hold USO could wind up with losse
-s.
-
-3.心得/評論：
-
-雖然不是"很新的新聞" 但還是分享一下
-
-USO被停至少8週不得新增單位期間，被唯一期貨商RBC暫停買期貨合約，USO (不得不找合
-作商) 5/28新增合作期貨經紀商-Marex  Spectron
-
-現在這時候又准它再增新單位(賭盤再開)
-
-不過持有合約還是繼續跨月，目前最多還是12月的
-
-還是分享一下Fed Observer的評論
-對最後他的疑問也是心有戚戚…
-https://youtu.be/lF_qjCeGkqY
-
-什麼都包進ETP，你看似"公開交易流動性很好"，retail就通通可以交易，結果背後他掛
-鉤的是別的商品市場，流動性又是另一回事，但是個人造業個人擔 。面向大眾的公募基
-金不開放商品(黃金.能源.地產)，只能投公司股票，但包成ETP就可以了。
-
-再核准新賭盤，不代表買了一定又貼近真實油價，還是要勸世一下，不要買了忘記
-
-想個矛盾心裡，擺長無法避免多數時期的contango，即使有時會補血，但哪個心裡不是希
-望長期看好未來油價上漲，那為什麼要期待靠時間然後遇到補血情況。
-
-下面來源是bloomberg文章，截圖來源:https://reurl.cc/8GR587
-主要重點在，當WTI今年來下跌40%時，USO價值蒸發70%…。
-
-https://i.imgur.com/y3mJz1U.jpg
-
-影片也有 比較 XOM vs USO 走勢，當作勸世，其實板上之前也有很多人作這樣的衡量，
-因為還是看到身邊很多人跳入這檔商品的情況，還是提供一下資訊參考。
-
-
-https://i.imgur.com/CAPWfRd.jpg
-
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.10.168.145 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1592104743.A.6B4.html
-※ 編輯: z22744388 (39.10.168.145 臺灣), 06/14/2020 11:19:41
-※ 編輯: z22744388 (39.10.168.145 臺灣), 06/14/2020 11:20:21
-※ 編輯: z22744388 (39.10.168.145 臺灣), 06/14/2020 11:21:12
-推 zaqimon     : 下次想抄底原油直接買遠月期貨擺著就好              06/14 11:36
-推 yjjia       : 其實我在想很多油期都買在12月，萬一年底疫情再爆發  06/14 11:40
-→ yjjia       : 那一堆油期會不會迎來第二次負價格?                 06/14 11:41
-→ zaqimon     : 那就提早轉倉到明年12月 繼續擺著                   06/14 11:41
-推 we147121    : 買USL就好，不要想太多，這個禮拜油崩影響較少       06/14 12:05
-推 Merkle      : 原油一直轉超遠期 被正價差吃豆腐就吃到飽           06/14 12:20
-推 LANGUNG     : 現在正價差又不高                                  06/14 12:33
-推 AGODC       : 簡單說，沒抄在最低都是死                          06/14 12:51
-→ AGODC       : 提早轉倉也沒用，這種管理型基金都是要扣很重的管理  06/14 12:53
-→ AGODC       : 費，光油價持平到12月你就直接先扣1~20%管理費了     06/14 12:53
-→ dsfaghjkl   : 樓上好厲害，可以算出1-20%管理費...                06/14 13:08
-推 bboy1117    : 可能會被收0-100%管理費                            06/14 15:51
-
-
---------------------------------------------------------
-
-
  作者  lovecutes (bb)                                             看板  Stock 
  標題  Re: [心得] 個人小小看法                                                
  時間  Sun Jun 14 11:27:55 2020                                               
@@ -500,6 +402,7 @@ RSI25以下進場勝率極高
 推 camadoo     : 看好就買，看壞就空                                06/14 15:32
 → sawaman     : 金庸概念股，折折概念股，被套元件五虎將            06/14 15:53
 → billionaire : 高手                                              06/14 15:55
+推 whisty216   : 拉高空一張                                        06/14 16:59
 
 
 --------------------------------------------------------
@@ -684,6 +587,7 @@ PS6. 美元不可能會被取代，
 → bndan       : 只能說會選擇跟著美元走是有原因的..                06/14 14:23
 推 joejohn     : 推這篇，很多核心關鍵技術都在美國，大資本家也在    06/14 16:25
 → joejohn     : 美國，只怕暴動而已                                06/14 16:25
+推 it914003    : 台幣30:1一堆台商往西南向外逃 20:1台灣人就沒工作   06/14 17:03
 
 
 --------------------------------------------------------
@@ -908,6 +812,9 @@ https://money.udn.com/money/story/5612/4621544?exlink
 推 Haoshao     : 不久後就持股出清，廣達Q2認列 Eps爆崩              06/14 16:41
 推 castalchen  : 鄉民不打算集結支持陪林董控訴恐龍法官嗎            06/14 16:49
 → castalchen  : 啊 美國是陪審團 跟各位一樣是鄉民                  06/14 16:49
+推 xsoho       : 完美切割？                                        06/14 17:01
+推 a86576      : 公司很不錯 但卡到這個就得下去                     06/14 17:02
+推 andykao082  : 真慘                                              06/14 17:02
 
 
 --------------------------------------------------------
@@ -1410,6 +1317,15 @@ https://i.imgur.com/8aocqUL.png
 推 twopairs1122: 在南機場見過本人，160左右，皮膚算好，胸感覺是算   06/14 16:49
 → twopairs1122: 大的                                              06/14 16:49
 推 tacovirus   : 市場永遠是對的，只論輸贏不論身份                  06/14 16:49
+推 arctic      : 大立光4千以下進現在差不多50                       06/14 16:51
+推 jzbobby     : 想當雞排炮友                                      06/14 16:52
+推 lance8537   : 蛤標題不是說大學光嗎 哪來大力肛                   06/14 16:52
+噓 Lawleit     : 大立光這波反彈最弱，還不如韓總底部買合一爽賺200   06/14 16:53
+→ Lawleit     : 萬。                                              06/14 16:53
+推 andy70612   : 等她賠錢的時候  還會出來講  那我就信              06/14 16:54
+噓 tony922     : 酒店妹也屌打鄉民啊 很屌？                         06/14 16:58
+噓 boss51      : 350萬 賺50萬 報酬率7% 有很強嗎？                  06/14 17:00
+推 linagle     : 有錢當然贏                                        06/14 17:02
 
 
 --------------------------------------------------------
@@ -1551,6 +1467,9 @@ https://reurl.cc/V6g86Q
 → start0917   : 摸摸LP如果開放旅遊你敢戴中國口罩搭機嗎？          06/14 16:18
 → aicecoolman : 媽蛋，把標題看成口暴...以為走到西斯版             06/14 16:20
 推 doranako    : 因為口罩這技術太好做，中國一堆人在做              06/14 16:39
+推 KIKUSUI     : 中共口罩=垃圾 但量大加減拿                        06/14 16:54
+→ KIKUSUI     : 總比沒有好一點點                                  06/14 16:54
+推 yaboo       : 好可笑鷗鷗鷗鷗鷗鷗                                06/14 16:59
 
 
 --------------------------------------------------------
@@ -1784,6 +1703,8 @@ https://reurl.cc/V6g86Q
 → a125g       : 這種行情很久才一次 而且要能抓住機會               06/14 16:34
 推 heatsink    : 直接買0056成分股比較好                            06/14 16:39
 → justin81828 : 跟人廢不廢有關，跟資本無關                        06/14 16:47
+推 jord98972005: 買房 貸款炒股正解                                 06/14 16:52
+推 gokuhwanlai : 我怕十年變一百萬                                  06/14 16:56
 
 
 --------------------------------------------------------
@@ -2010,6 +1931,59 @@ https://i.imgur.com/Tuhk2NS.jpg
 ※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.158.104.132 (臺灣)
 ※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1592122873.A.370.html
 推 eknbz       : 推分析                                            06/14 16:23
+→ linagle     : 推                                                06/14 16:53
+
+
+--------------------------------------------------------
+
+
+ 作者  orphen750226 ()                                            看板  Stock 
+ 標題  [請益] 長期穩定5％收益                                                 
+ 時間  Sun Jun 14 16:51:28 2020                                               
+───────────────────────────────────────
+
+各位前輩好
+
+本來在海外券商
+
+有購入
+
+NMZ,NZF,MYD
+
+但怕美股走跌
+
+就先出清了
+
+而且一查市政債每年股息有減少的情形
+
+
+於是就想說匯回台灣買兆豐金
+
+
+但又卡在匯差跟高股價而無法買
+
+
+想學買ETD,回購日又都有點近
+
+
+現在有點迷茫
+
+
+想請問若是要在台灣或是美國配置固定收益5%
+
+
+還有什麼更適合的標的呢？
+
+
+非常感謝
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.163.163.10 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1592124691.A.422.html
+推 xabclol     : 抄底O                                             06/14 16:54
+推 yaboo       : 讚讚                                              06/14 16:57
+推 dalyadam    : 怎麼又一個來問兆豐金的...                         06/14 16:58
+→ dalyadam    : 等等  是同一人 = =                                06/14 16:58
 
 
 --------------------------------------------------------
