@@ -1,67 +1,3 @@
- 作者  herodin (修身養性)                                         看板  Stock 
- 標題  Re: [新聞] 財務造假 陸企瑞幸咖啡29日自那斯達克停                       
- 時間  Mon Jun 29 21:08:33 2020                                               
-───────────────────────────────────────
-
-※ 引述《CavendishJr (伊井野梅西子)》之銘言：
-: 1.原文連結：
-: https://bit.ly/3i6WO2V
-: ※過長無法點擊者必須縮網址
-: 2.原文內容：
-: 財務造假 陸企瑞幸咖啡29日自那斯達克停牌
-: （中央社台北27日電）陷入財務造假醜聞的中國企業瑞幸咖啡今天宣布，公司將於29日
-自
-: 國那斯達克證券交易所停牌並進行退市備案。瑞幸董事會並將於7月2日舉行臨時股東大
-會
-: 討論撤銷董事長陸正耀職務的提案。
-: 瑞幸咖啡（Luckin coffee，NASDAQ：LK）上午在官方微博發布聲明，將於29日自那斯
-達?
-: （Nasdaq）停牌，並進行退市備案。
-: 聲明也表示，瑞幸咖啡在全中國的4000多家門市會正常營運，約3萬名員工也將一如既
-往?
-: 供服務。
-: 陸媒第一財經報導，本月23日，瑞幸咖啡因未能提交年度報告，收到那斯達克的退市通
-知
-: 瑞幸咖啡指出，公司因2019冠狀病毒疾病疫情導致的財務報表編制流程延遲，及先前披
-露
-: 內部調查懸而未決，導致公司無法提交年度報告。
-: 但瑞幸咖啡先前公告稱，已在24日向那斯達克撤回聽證請求，不再尋求逆轉交易所的退
-市
-: 定。而受到相關消息影響，瑞幸咖啡26日在美股數度觸發熔斷，收跌1.38美元，股價創
-新
-: ，且較上市定價的17美元下跌92%。
-: 瑞幸咖啡是美國連鎖企業星巴克（Starbucks）在中國的新興競爭對手，由瑞幸咖啡董
-事?
-: 陸正耀與首席執行官錢治亞在2017年創立，短短兩年多在中國展店超過4500家。去年底
-，
-: 幸咖啡在中國的分店數超過星巴克。
-: 不過，瑞幸咖啡今年4月揭露部分員工在去年前3季浮報多達3億1000萬美元的銷售額，
-陷?
-: 財務數字作假風暴。
-: 瑞幸董事會先前已終止錢治亞及首席運營官劉劍的職務，並將在7月2日舉行臨時股東大
-會
-: 討論撤銷陸正耀職務的提議。（編輯：賴言曦/周慧盈）
-: 3.心得/評論：
-: ※必需填寫滿20字
-: 6/29停牌並進行退市
-: 7/2開臨時股東會討論撤銷董事長職務
-
-弱弱的問一下，因為google不到答案。
-像這種下市的股票，如果買option 還未到期怎麼算？
-用下市前的最後價格結算嗎？
-還是option就沒用了？
-謝謝
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.229.129.135 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1593436115.A.FFC.html
-推 oopFoo      : CBOE delisted options https://bit.ly/389Y3K9      06/29 21:26
-→ oopFoo      : 看起來是交易到到期。                              06/29 21:27
-
-
---------------------------------------------------------
-
-
  作者  aseans (guest lecturer)                                    看板  Stock 
  標題  [請益] 有人敢賭破產股嗎?                                               
  時間  Mon Jun 29 21:32:06 2020                                               
@@ -853,6 +789,7 @@ https://www.facebook.com/watch/?v=1380284352362843
 → allrights   : 一定還有錢。                                      06/30 05:53
 推 ppp123      : 期貨現在都找妹子營業員來誘惑宅宅開戶              06/30 05:57
 推 eden0417    : 搞成這樣 好沒格調                                 06/30 05:58
+推 cobrasgo    : 吾本欲斥，然乳實豐                                06/30 06:13
 
 
 --------------------------------------------------------
@@ -1004,6 +941,8 @@ https://youtu.be/tOvhmc5yYw4
 推 nisi0773    : 也太容易被洗腦                                    06/30 03:37
 → capirex     : 電鍋別斷貨就好                                    06/30 04:01
 噓 samarium    : 還在拜神好可年，有賺錢嗎                          06/30 06:02
+→ simo520     : 市場派要的不就是大同的地方拿去給合作的建商蓋豪宅  06/30 06:07
+→ simo520     : 商辦。                                            06/30 06:07
 
 
 --------------------------------------------------------
@@ -1323,6 +1262,11 @@ Borrell) 建議美歐建立對話機制來因應，美國國務卿蓬佩奧 (Mik
 推 tw22861542  : 來個倍數大黑馬                                    06/30 01:36
 推 leotompp    : M頭，空頭三明治，空起來好嗎。                     06/30 04:43
 推 simo520     : QQ                                                06/30 05:30
+→ SRadiant    : 核酸檢驗是Gold standard，所以需求量非常大，供給   06/30 06:15
+→ SRadiant    : 量也非常大。抗原快篩目前EUA僅一家，市場接受度查   06/30 06:15
+→ SRadiant    : 不太到資料，這是最大的隱憂，我晚點再查一次看看。  06/30 06:15
+→ SRadiant    : 抗原快篩的優點是便宜(整個檢驗的COST)、快速，缺點  06/30 06:15
+→ SRadiant    : 是假陰性                                          06/30 06:15
 
 
 --------------------------------------------------------
@@ -1386,6 +1330,78 @@ Borrell) 建議美歐建立對話機制來因應，美國國務卿蓬佩奧 (Mik
 → KMTGG       : 了 看完正常人應該不會想碰這隻                     06/30 04:59
 推 KMTGG       : 嘉義跟華信我懷疑是匯播 幕後是誰自己去找地緣關係   06/30 05:01
 推 leon771170  : 趕緊賣 垃圾生技股......                           06/30 06:00
+推 kenlee168   : 基本面很好，只是沒特別主力在顧                    06/30 06:14
+推 ridges      : 看營收，普遍認為半年後就會下滑                    06/30 06:16
+
+
+--------------------------------------------------------
+
+
+ 作者  saveme (hihi不要在底下推噓文， )                           看板  Stock 
+ 標題  [新聞] 突發：美國商務部暫停對香港特別待遇                              
+ 時間  Tue Jun 30 06:08:54 2020                                               
+───────────────────────────────────────
+
+1.原文連結：
+※過長無法點擊者必須縮網址
+
+
+https://reurl.cc/D9kpnj
+
+2.原文內容：
+
+
+Statement from U.S. Secretary of Commerce Wilbur Ross on Revocation of Hong
+Kong Special Status
+
+Wilbur Ross
+
+Monday, June 29, 2020
+
+With the Chinese Communist Party’s imposition of new security measures on H
+ong Kong, the risk that sensitive U.S. technology will be diverted to the Pe
+ople’s Liberation Army or Ministry of State Security has increased, all whi
+le undermining the territory’s autonomy. Those are risks the U.S. refuses t
+o accept and have resulted in the revocation of Hong Kong’s special status.
+
+Commerce Department regulations affording preferential treatment to Hong Kon
+g over China, including the availability of export license exceptions, are s
+uspended. Further actions to eliminate differential treatment are also being
+evaluated. We urge Beijing to immediately reverse course and fulfill the pr
+omises it has made to the people of Hong Kong and the world.
+
+港民國際連橫 Global Connect
+
+突發：美國商務部暫停對香港特別待遇
+
+因應中國在香港強行實施國安法，美國商務部長 Wilbur Ross 宣布決定暫停香港部份特
+殊待遇，包括出口許可證豁免。亦明言因應局勢發展，可能會有進一步的行動。
+
+https://www.commerce.gov/news/press-releases/2020/06/statement-us-secretary-
+commerce-wilbur-ross-revocation-hong-kong
+
+Tweet: https://twitter.com/hkglobalconnect/status/1277713055296573440?s=21
+
+3.心得/評論：
+※必需填寫滿20字
+
+
+噹噹噹噹噹噹噹噹，
+不曉得第幾回合開始了?
+
+香港問題第一砲，
+中國共產黨的喪鐘正式開始響起。
+
+我看香港股市，深圳股市，上海股市，你的假指數可以再撐多久?
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.10.55.120 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1593468543.A.2D9.html
+→ ericjaing   : 完了                                              06/30 06:09
+推 transfight  : QQ塊陶啊啊啊啊啊啊啊啊啊啊啊啊！                  06/30 06:14
+→ transfight  : QQ 陸資大舉進攻香港！！                           06/30 06:15
+推 sniperlin   : 撐到川普連任失敗嗎？                              06/30 06:15
 
 
 --------------------------------------------------------
