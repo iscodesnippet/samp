@@ -1,203 +1,3 @@
- 作者  hazel0093 (飛龍がくる)                                     看板  Stock 
- 標題  [新聞] 郭智輝:中國發展半導體 偷呷步這招沒用了                          
- 時間  Thu Jul 23 22:12:20 2020                                               
-───────────────────────────────────────
-
-《CEO開講》郭智輝：中國發展半導體 「偷呷步」這招沒用了
-2020/07/22 08:00
-
-（郭智輝為崇越集團董事長）
-
-我看兩岸的半導體，半導體產業並不適合中國發展，特別是尖端科技並不適合中國，因為半
-導體是越做越小，中國人個性喜歡做大，這種越做越小的產業，對中國人而言叫做雕蟲小技
-，從中國的歷史來看，從來不喜歡（prefer）這雕蟲小技的東西。
-
-全世界只有台灣最適合發展半導體產業
-
-第二個，半導體的產業最重要的是供應鏈（supply chain），供應鏈的整合非常重要，台灣
-之所以成功，是台灣整個供應鏈在這個3萬6000平方公里的這個島上非常完整，中國因為幅
-員太大了，中國能夠提供給年輕學子比較好報酬的有太多產業，特別是金融、法律的事務所
-，大概優秀的孩子都往那邊跑，台灣不一樣，台灣優秀的孩子，早期優秀的孩子都往工科跑
-，工科跟醫科，然後那時候半導體產業發展剛開始萌芽期，我們就進入了，台灣人又願意為
-了工作吃苦耐勞，加班也都視為理所當然，所以半導體能在台灣紮根。
-
-中國現在才要發展半導體產業，我覺得都太慢了。半導體這個產業只適合台灣發展，台灣的
-小孩子願意加班，願意吃苦耐勞，其他民主的國家，像半導體為何在美國發展不起來？就是
-半導體製造是一個特殊的行業，必須365天、24小時不停的運轉，然後在5大製程上面，有的
-是4大製程，他必須這樣輪流，IC要輪500次、800次，都不會出錯，才叫做良率，這個是台
-灣做得到。
-
-台灣的孩子可以做2天休息2天，每天工作12個小時，做2休2讓工廠運作，美國找不到這樣的
-年輕人願意工作12小時的，以研究中心來說，台灣很多的研發（R&D）包括在台積電的RD或
-者聯電的RD，他們也是幾乎不會去計較加班，但是在美國或中國，他們都會去跟你計算我的
-工作時數，我工作8小時就是8小時，1個禮拜40小時就是40小時，我個人的利益（Benefit）
-是大於公司的利益，台灣的孩子，大部分是為了公司我們會犧牲個人。
-
-中國發展半導體最依賴台灣
-
-中國是在近期才要加入半導體產業，它沒有基礎，沒有基礎就是沒有供應鏈，沒有供應鏈沒
-有辦法支援整個產業的發展，變成都要靠外部，靠國外、尤其是靠台灣最多，然後設備要靠
-美國，半導體設備最重要的是荷蘭的艾斯摩爾（ASML），或者是日本的設備，但是在製程上
-面，還是台灣的技術非常厲害。當初張忠謀董事長從美國找了一批，在半導體業界非常優秀
-的台灣人、美國人，他是連美國人一起找回來，在製造上面台積電永遠是領導，台積電在擴
-產的過程裡面，它的智慧複製（smart copy）做的非常好。
-
-台積電從經驗上面來看，是由兩個資深的（senior）工程師去帶一個資淺的，那為什麼中國
-在進展的過程會很慢，因為他資深的工程師太少，所以他只能1個資深的工程師去帶4個資淺
-的工程師，資淺的工程師容易犯錯、犯錯的機率太高了。
-
-在半導體上面，一片晶圓要跑2000多個站，只要有一個錯，0.99的500次方趨近於零，我的
-意思是說，你在蒸一籠包子，一籠包子有100顆，要蒸500次，100個都好的、良率100，95顆
-好的、良率95，大概這個意思。但是你在搬運、蒸的過程，都會影響這個包子是不是完美，
-IC就是這樣的結構，為什麼台積電的良率可以90幾，中芯半導體的良率只有10幾、20幾，有
-時候甚至還是0，主要是經驗的問題，設備大家都用的一樣、材料大家也用的是一樣，那再
-來就是經驗。經驗是只有台灣有，台灣這個地方學習也快、坦白來講又是學長學弟制，所以
-人脈很容易牽成，要找關係太容易。
-
-中國發展面板、LED模式 無法適用半導體
-
-中國也從台灣挖了像蔣尚義、張汝京這些半導體精英去建廠，中國用同樣的模式在LED、面
-板，對台灣造成很大威脅，為何在半導體沒辦法？
-
-我認為，所有製造業的製程只要低於50個步驟（under 50 steps），中國偷技術一定成功，
-但是半導體太複雜，它是500到2000個步驟，中國碰到太複雜的就沒有辦法。再來，半導體
-又有一個特質，他是每18個月到24個月就是一個世代（generation）的改變，就算你中國偷
-學做出來，台灣的技術又跑到前面，所以台灣90奈米、70奈米、40奈米28奈米、20奈米、14
-奈米、10奈米、7奈米、5奈米到3奈米，每18個月就換一個世代。
-
-所以當中國學好這個世代的技術，台灣已經跑到前面去了。中國現在90奈米做得很好沒有用
-，因為終端沒有什麼產品願意用90奈米的IC，現在台積電都已做到3奈米，中芯半導體也只
-能做28奈米，現在在挑戰14奈米，但良率還是不夠，就算是良率夠了，人家也不讓你去投，
-我用更微小的設計，就可以取得更多的晶片。
-
-製程每18個月換一世代 中國永遠跟不上
-
-最近有一個朋友來找我，他是做汽車電子的，原先設想是認為將來汽車電子零件需求非常大
-，他怕被壟斷，想在中國自己蓋一條生產線，中國方面要拿錢給他蓋生產線，我原本就建議
-他不要。生產線建好就像是我給你一個廚房，然後給柴米油鹽醬醋茶、麵粉什麼，然後叫你
-做包子，你的師傅如果不是很厲害，那個包子做的不會好吃。
-
-不是技術不好，材料的問題，這就是很多的變異，那在中國是有很多的變數你是沒辦法控制
-的，人是最大的變數。有人講說用AI，第2個問題是你的故障排除（troubleshooting），對
-於臨時性的問題應變跟改變。台積電做的那麼好，之前不是在台南工廠有一些化學品滲漏進
-去然後造成整個工廠出問題，那麼嚴謹的公司都會出問題，你說中國怎麼不會出問題？
-
-沒有經驗值的判斷、沒有好的數據判斷，決策就會慢，決策一慢，因為你可以領先的是18到
-24個月，中國現在要來拚這一塊比較難。太陽能也好、LED也好，這些產業技術門檻比較低
-，所以你一定做輸中國，我朋友一條生產線，從台灣搬去中國，對方就會跟你買中古設備，
-然後要求你安裝好 ，才願意付錢，結果被退了好幾次，大概花了1年才完成那條線（Line）
-，完成後旁邊竟然同時出現4條同樣的生產線，中國copy的速度幾乎是同步。
-
-這是很多台商共同的痛苦經驗，就是越簡單的製程，移到中國去，很快就被他接受了，但是
-這個越複雜的製程，就會有困難。所以台灣LED會死、太陽能會死這是可以預料的，接下來
-二極體大概也都不行，大概也會做輸中國。現在中國全力在發展的就是功率半導體，就是大
-功率的電晶體（Transistor），這個部分台灣做輸中國，就是技術不難、台灣就做不贏。但
-是，技術難的如晶圓廠，中國你培養出來的中芯或武漢弘芯，根本沒有機會可影響台積電。
-
-（攝影紀錄/記者胡志愷、謝羽蓁     策畫訪談/記者 歐祥義）
-https://ec.ltn.com.tw/article/breakingnews/3223094
-
-==================
-
-結合最近台GG斷供華為
-大家怎麼看？
-感覺似乎是讚美台灣工程師耐操好用的樣子？
-
---
-
-　
-Believe, believe, there's magic here tonight...
-Believe, believe!
-　
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.231.207.82 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1595513543.A.163.html
-推 ccdd2468    : 奴性強                                            07/23 22:14
-→ nicholas5615: 賣肝賣到理所當然...，是M屬性太高嗎                07/23 22:14
-噓 dickey2     : 沒說都不知道你是誰                                07/23 22:18
-推 cute9527    : 在表揚奴才們？                                    07/23 22:19
-推 rodes       : 我知道她是誰啊  中職第六隊老闆                    07/23 22:19
-→ rodes       : 說錯了 現在是第七隊                               07/23 22:19
-→ jackshyu    : 中國人做不來，但是砸錢挖台灣背骨的過去就做得來了  07/23 22:20
-噓 TCB006      : 簡單來說 台灣人奴性重                             07/23 22:20
-推 paleomort   : 聽起來好像很厲害，但是哪裡怪怪的。                07/23 22:22
-推 geeg        : 就是先進製程太燒錢嚇到了，君不見面板已經被屠殺    07/23 22:25
-→ geeg        : 要走力晶模式先切入記憶體，就遇到美國傾力打壓      07/23 22:27
-推 JustaJunk   : 聽起來不像在誇我們                                07/23 22:28
-噓 z0953781935 : 什麼屁話                                          07/23 22:29
-噓 KarlTowns   : 翻譯：台灣人是奴才的命                            07/23 22:31
-→ ikariamman  : 翻譯奴性重                                        07/23 22:32
-→ deangogi    : 完了 這種大頭症發作的言論出現 大盤不妙...         07/23 22:33
-推 angelicwing : 錢給的夠多 不介意加班 但通常...                   07/23 22:33
-推 stlinman    : 中職第六隊老闆言論夠資方!來股版想發財當然要聽聽   07/23 22:36
-→ stlinman    : 資本家怎麼想。                                    07/23 22:36
-推 rockok71    : 郭說過要進職棒呢!?                                07/23 22:37
-噓 buddhawu    : 幸好這人不是管台積電的CEO, 講這些實在自大又愚蠢   07/23 22:39
-推 abjx        : 所以重點就是十萬青年十萬肝                        07/23 22:41
-推 mepass      : 老人不是最喜歡說年輕人不耐操 GGer表示             07/23 22:42
-噓 zodance     : 此崇越非彼崇越吧                                  07/23 22:42
-推 aegis43210  : 台灣人最耐操好嗎？…                              07/23 22:45
-噓 a123444556  : 就奴性堅強耐操阿 年輕不保重身體 老了看病看好看滿  07/23 22:50
-推 chien703    : 台灣奴工了不起 respect                            07/23 22:50
-推 cavabien    : 台灣人最奴                                        07/23 22:51
-噓 dbdudsorj   : 慣起來.....                                       07/23 22:52
-噓 avrililoveyo: 這是在反諷嗎。還是台灣人真的太悲哀                07/23 22:58
-噓 CJMcCollum  : 純噓這個老板                                      07/23 22:59
-推 Csy065      : 一個字奴                                          07/23 23:06
-噓 BlueBird5566: 前半段講到人跟加班費是傻了嗎？中國有得是錢        07/23 23:07
-→ BlueBird5566: 而且這種文感覺就是會被打臉。不要驕傲好嗎          07/23 23:08
-噓 trylin      : 你的第六隊咧                                      07/23 23:09
-噓 vaca01      : 沒見過世面的言論 426很多月休只有一天 都不知道 真  07/23 23:16
-→ vaca01      : 以為自己最勤奮                                    07/23 23:16
-推 reallocust  : 錢給夠多,要我奴我願意                             07/23 23:17
-噓 substitutor : 996沒聽過？intel領先了多少年？半導體只有製造？    07/23 23:21
-噓 djbell      : 可憐哪 勞工跟奴隸一樣 還可以拿來嘴                07/23 23:25
-→ djbell      : 台灣撿人家不要做的 還沾沾自喜                     07/23 23:26
-噓 hune        : 大家都想賺加班費 這在中國工作16小時都沒問題好嗎   07/23 23:28
-推 GSWA        : 這不是10年前就知道?                               07/23 23:28
-→ djbell      : 如果有更好的產業可以選 白癡才會想要做晶圓代工     07/23 23:28
-推 pcappuccino : 推郭董                                            07/23 23:41
-推 Merman19    : 奴性吧                                            07/23 23:42
-→ ying0502    : 中國有多少念北大清華願意來作輪班星人，可是台積    07/23 23:45
-→ ying0502    : 電四大的一堆，素質不夠願意加班沒用的              07/23 23:45
-→ ying0502    : 現在來看應該不是人家不要的，只是不夠奴作不起來.   07/23 23:46
-推 momomom     : 呵呵 台灣的孩子有夠可憐                           07/24 00:29
-→ momomom     : 做2休2 連續工作12小時好像很值得稱道一樣           07/24 00:30
-推 qwe22992168 : 斷供華為  現在台積電一直都在創新高  沒支那就是讚  07/24 00:45
-噓 pf775       : 半導體真正的核心設備跟化材都掌握在歐日美大廠手    07/24 00:53
-→ pf775       : 裡                                                07/24 00:53
-噓 achiyeng    : 所以台灣工時世界第四 生育率倒數第一 不就這麼來    07/24 01:06
-→ achiyeng    : 的                                                07/24 01:06
-推 yitniya     : 沒有納米屌，不攬精細活。                          07/24 01:21
-噓 csghuuguh   : 供殺小                                            07/24 01:38
-→ afflic      : 十萬青年十萬肝，GG輪班救台灣！                    07/24 01:45
-→ sonyvaio    : 可憐，奴性都變競爭力了                            07/24 01:58
-推 southes     : 比支那韭菜好                                      07/24 02:44
-推 wahaha711233: 可憐的是這樣奴，才有過台灣均標的薪水              07/24 03:59
-→ eemail      : 從另個角度看是..要成為全球第一除了錢還要另外條件  07/24 06:28
-→ eemail      : 這也合理 畢竟錢能解決都小事@@                     07/24 06:29
-噓 hsh9101301  : 是我想太多，還是作者的意思是台灣人奴性強，好欺負  07/24 06:32
-→ hsh9101301  : ？                                                07/24 06:32
-→ SkyShih     : 應該說台灣在世界產業鏈上只適合吃這一塊，尤其代工  07/24 06:49
-→ SkyShih     : 方面，其他沒你的份                                07/24 06:49
-噓 tonyd       : 結果論的廢文                                      07/24 06:53
-推 SNSDpk5566  : 幾年前不是罵年輕人 草莓嗎 風向變了?               07/24 06:53
-推 guteres     : 勞動部要不要去檢查一下？                          07/24 07:15
-噓 paul0303    : 以偏概全，井蛙之見                                07/24 07:21
-推 overno      : 抗議，奴才的命也是命                              07/24 07:30
-推 honeyney1120: 在酸彎彎奴才們                                    07/24 07:47
-推 knik119     : 好像小看大陸的伎倆了                              07/24 07:48
-推 weekender   : 現在年輕人不喜歡當奴才了吧？                      07/24 07:55
-→ deann       : 原來是台灣人奴性高 才適合發展半導體               07/24 08:10
-→ deann       : 中國都韭菜 結果台灣人比韭菜還奴 呵呵              07/24 08:12
-→ simo520     : 鬼島教育成功。                                    07/24 08:23
-噓 decorum     : 要說奴 華為比台積還操還奴                         07/24 08:50
-
-
---------------------------------------------------------
-
-
  作者  jimpon (kobe11)                                            看板  Stock 
  標題  [其他] 聊聊關於特斯拉的秘密......                                      
  時間  Thu Jul 23 22:12:21 2020                                               
@@ -924,6 +724,7 @@ https://reurl.cc/3D0bx9
 推 benting     : 8根漲停後                                         07/24 08:27
 → Robertxie   : 跟台積電比價 上看350                              07/24 08:37
 推 golover     : 絕對漲上去的                                      07/24 08:51
+推 memidase    : 會在猛漲一陣子  但應該要設停損                    07/24 09:11
 
 
 --------------------------------------------------------
@@ -1037,6 +838,8 @@ https://reurl.cc/3D0bx9
 
 上面有人猜到哪家了
 ※ 編輯: Yishun (180.217.78.89 臺灣), 07/24/2020 09:02:57
+推 atmcola     : 其實子公司股價大於母公司也是很常見                07/24 09:15
+推 samm3320    : 不用子公司，大公司認股都可能會烙賽                07/24 09:20
 
 
 --------------------------------------------------------
@@ -1342,6 +1145,7 @@ Sent from PTTopia
 → joshua1226  : 單                                                07/24 05:56
 推 kinki999    : 等它轉行成金控業洲考慮                            07/24 07:04
 推 sirius426   : ...買這個不如去買0050                             07/24 08:00
+→ Anyotw      : 複複委託？！你在想什麼                            07/24 09:15
 
 
 --------------------------------------------------------
@@ -1416,6 +1220,8 @@ Sent from BePTT on my Sony H9493
 → royli       : 等四寶股利入帳   就會拉一根                       07/24 08:38
 → liang0510   : 好心提醒, 單少很多, 什麼時候有單不知道            07/24 08:54
 推 GGin        : 太早上車QQ                                        07/24 09:10
+推 speady      : 台塑四寶產能都只剩不到8成，這隻是會好到哪         07/24 09:13
+→ DK1121      : 今年新油廠正在試車！                              07/24 09:23
 
 
 --------------------------------------------------------
@@ -1730,6 +1536,18 @@ Intel 發現自家的 7nm 製程有一種缺陷模式會造成良率的損失，
 → kuma660224  : 所以i皇要取代他的7，不可能用三星                  07/24 09:09
 → kuma660224  : 因為三星目前做不出那個等級的                      07/24 09:09
 推 dx4368      : GG要井噴了                                        07/24 09:10
+推 kentelva    : 雖然還沒決定給GG 不過喊出來了，代表機率不低       07/24 09:13
+推 rancilio    : 昨天忍不住381又抱一張台GG，今天就給我出這個消息   07/24 09:16
+推 dragonjj    : Intel 的7相當於台積的5啦，少了華為，多了英特爾    07/24 09:16
+→ dragonjj    : ，賺！                                            07/24 09:16
+→ watchmeisyou: 這樣對amd是壞消息吧  為何amd還漲??                07/24 09:16
+推 kentelva    : and不就短多長空                                   07/24 09:17
+推 w300204     : 又不是說用就馬上可以轉 還有要排隊 對AMD短多長空   07/24 09:18
+推 zark07222   : 昨天不是有人喊很大聲要空台積，台基也要出短褲了    07/24 09:21
+→ zark07222   : 啦                                                07/24 09:21
+推 vincent5236 : 重點是i皇又沒完全放棄他們自己的晶圓               07/24 09:22
+→ kuma660224  : https://reurl.cc/oLnm3D                           07/24 09:23
+推 bheegrl     : 終究是要用GG的，何不一開始就用GG                  07/24 09:24
 
 
 --------------------------------------------------------
@@ -2097,6 +1915,8 @@ Wedbush Securities高級副總裁Stephen Massocca表示：「成長型股票和�
 → felaray     : 財報如預期的爛 噴  不如預期的好 大跌              07/24 08:56
 推 ataky       : 整個疫情爆炸還死撐                                07/24 08:59
 → dslite      : 拉回即買點 但我睡著了                             07/24 09:01
+推 original8329: 南下載客啦 多久了還在疫情梗 沒上到車的還不趕快上  07/24 09:18
+→ original8329: 車                                                07/24 09:18
 
 
 --------------------------------------------------------
@@ -2717,6 +2537,183 @@ Call 12600 Put 12200
 推 zxcv9404    : 空軍在空3583                                      07/24 09:11
 → FirePopcorn : AAAAAAAAAAAAAAAAAAAAAAAAAA                        07/24 09:11
 推 mecca       : 翻黑有差嗎  反正雞雞不會                          07/24 09:11
+推 ImCPM       : 995...                                            07/24 09:11
+推 jc19941228  : 這是真的拉GG出中小吧  扣掉GG大盤是跌的=  =        07/24 09:11
+推 neilisme    : +~GG跟發哥都看反 不然帶會員做多賺翻了             07/24 09:11
+推 JuiFu617    : 扣掉台gg，台股是黑的                              07/24 09:11
+→ qqq87112    : 美股利空 台股當利多 黑手真棒                      07/24 09:12
+推 c9c9c9ddde  : 十萬青年十萬肝                                    07/24 09:12
+→ mecca       : 拉雞雞  讓盤進   逆雞雞  不容易                   07/24 09:12
+推 Kelvinasd   : 昨天說要空GG那篇怎麼不見了                        07/24 09:12
+推 transfight  : QQ完惹…………又拉台GG撐指數………                07/24 09:12
+推 sawaman     : 還好我一直都是看空不做空=.=這盤太鬼               07/24 09:12
+推 benny3579   : 今天直接上萬三                                    07/24 09:12
+推 eiitt       : 中小型股QQ                                        07/24 09:12
+推 EKman       : 紅通通，台股讚讚讚                                07/24 09:12
+噓 vncss       : 老書技嘉又創新高了                                07/24 09:12
+→ ruln        : 開始倒垃圾了....                                  07/24 09:12
+噓 henry318    : jojo8433 漲停發雞排                               07/24 09:12
+噓 PPP720817   : 還演 快崩吧 只漲GG的垃圾股                        07/24 09:12
+推 yumin88889  : 拉台積出貨 好簡單                                 07/24 09:12
+→ luciffar    : 完了...                                           07/24 09:12
+噓 LinuxKernel : 下跌家數500家笑鼠人...                            07/24 09:13
+推 amazingwow  : 台股太鬼 空難日啦                                 07/24 09:13
+噓 YLTYY       : QQVVVVVVVVVVVVVV                                  07/24 09:13
+→ qqq87112    : AAAAAA                                            07/24 09:13
+→ tttxxx      : 小菸:我要12682 為何要偷賣 你們都不合作呢          07/24 09:13
+→ nyyjeter8   : 靠GG就飽了 嘎指數                                 07/24 09:13
+→ dreamnook   : ABC你有本事就再鎖漲停= =                          07/24 09:13
+噓 FirePopcorn : 空軍舒服啦                                        07/24 09:13
+→ jc19941228  : 有夠無聊  這盤就看GG=  =                          07/24 09:13
+推 wyytw       : 拉臺基                                            07/24 09:13
+推 yuchin7828  : 創惟到底有沒有要出貨，一直拉                      07/24 09:13
+→ yuchin7828  : 猛                                                07/24 09:13
+噓 scum5566    : 又在拉gg 出中小 媽的                              07/24 09:13
+噓 hiyuy       : 嘉偉老師..發哥一直漲..怎麼辦                      07/24 09:13
+推 abc0806449  : 楠梓電下樓耍廢                                    07/24 09:13
+推 vincent5236 : 要不是台積權值那麼重，這種好消息還會只漲這樣嗎    07/24 09:13
+→ b0364864    : 東元又創高 真舒服                                 07/24 09:13
+推 c902112     : 無腦多睏霸數錢                                    07/24 09:14
+推 dalyadam    : 哀  元大金廢物><Y                                 07/24 09:14
+推 davidtai12  : 拉台積 出個股                                     07/24 09:14
+→ Hungry      : 要翻黑了嗎                                        07/24 09:14
+→ roy12345    : 好綠@@                                            07/24 09:14
+推 qqq5890003  : 狗哥995                                           07/24 09:14
+→ gest7240    : 昨天期貨空單 早盤應該都先獲利了結了               07/24 09:14
+推 win8719     : 聯電好猛14分鐘19萬張                              07/24 09:14
+推 sawaman     : 沒想到這次小兒說的台積400居然是真的=.=            07/24 09:14
+推 billy56     : 旺矽是要漲到哪邊去？？                            07/24 09:14
+→ hiyuy       : 買台積電買美國的 上下都比較快                     07/24 09:14
+推 s155260     : 強勢股很強啊 你各位別買投機股                     07/24 09:15
+噓 zombiepigman: 畢業了  拜託發哥別再漲了...                       07/24 09:15
+推 nicexd      : 立積好快QQ                                        07/24 09:15
+推 jc761128    : 旺矽開高出貨??                                    07/24 09:15
+→ b0364864    : 99華通.....                                       07/24 09:15
+推 frankie30432: 看禮拜一有沒有機會撿屍體進場~                     07/24 09:15
+推 qqq87112    : 早盤騙人進場出貨羅                                07/24 09:15
+推 juniel0331  : 同泰又處置了？？                                  07/24 09:15
+→ sawaman     : 下水囉=.=                                         07/24 09:15
+噓 FirePopcorn : 還有人幻想今天台積電400????                       07/24 09:15
+→ gest7240    : 台積電 喊價好像還沒有沒到過 現在不到幾年後也通    07/24 09:15
+→ gest7240    : 常會到 除了亂喊的內資投顧                         07/24 09:15
+→ qqq87112    : 一張2萬很貴嗎                                     07/24 09:16
+推 almanch     : 2303 誰再丟? 量好大 還拉不上去                    07/24 09:16
+→ mushi0307   : 99 6271                                           07/24 09:16
+→ nicexd      : 干立積不會要亮燈了吧QQ                            07/24 09:16
+推 wade00123   : 中小大爆賣                                        07/24 09:16
+推 a9750202    : 99 2603==                                         07/24 09:16
+→ qqq87112    : 一張GG能買20張聯電啊                              07/24 09:16
+推 a9621225    : 一堆人偷看答案 又不肯相信答案？                   07/24 09:16
+→ Atwo        : 周5空軍日                                         07/24 09:16
+推 billy56     : 同性戀不用救吧... 根本沒摔多少                    07/24 09:16
+推 Busufu      : 空軍日哦 拉高給你登機的                           07/24 09:16
+噓 mkoqwe      : 390的GG要沖掉嗎                                   07/24 09:16
+推 asonge0000  : 發哥不要再漲了 昨天已獲利了結                     07/24 09:16
+推 transfight  : QQ塊陶啊啊啊啊啊啊啊啊啊啊啊！                    07/24 09:16
+推 bart102617  : 快買台GG阿 400最後上車機會                        07/24 09:17
+→ oo98560     : 才剛開盤。尾盤在來嘴GG                            07/24 09:17
+推 dalyadam    : 台積電500是底 (咦                                 07/24 09:17
+→ luiGiF      : 2303 在玩當沖逆                                   07/24 09:17
+→ transfight  : QQ空軍日！！！！空軍召集令                        07/24 09:17
+推 Aska0520    : 旺矽今天的預估量嚇死人                            07/24 09:17
+推 CANHAPPY    : 99航運股                                          07/24 09:17
+→ gest7240    : 摸頭的小心gg                                      07/24 09:17
+→ transfight  : QQ完惹……………2020天崩地裂！！！！              07/24 09:17
+推 Mark8567    : 99 公公                                           07/24 09:17
+噓 scum5566    : 垃圾台指期又要翻黑了                              07/24 09:17
+推 xWCHx       : QQ                                                07/24 09:17
+→ s155260     : 發哥不要再漲了 我賣在570                          07/24 09:17
+推 mopa        : 99 2885 2890                                      07/24 09:17
+噓 hankami     : 大部隊空發哥+老師狂嘴台積 厲害了!!!               07/24 09:18
+→ billy56     : 小GG綠了                                          07/24 09:18
+推 jc761128    : 2342 34.6沒信仰賣給有需要的人                     07/24 09:18
+→ mopa        : 如果不9就殺低一點                                 07/24 09:18
+→ sagarain    : 笑死                                              07/24 09:18
+推 yuchin7828  : 近水樓台要被老蘇嘴爆....                          07/24 09:18
+推 SimleToMe   : 劍湖山怎麼了                                      07/24 09:18
+推 luciffar    : V?                                                07/24 09:18
+推 johnny0406  : 這盤根本是拉GG出中小                              07/24 09:18
+→ LinuxKernel : 近水樓台喊幾個月了，怎麼又下去了@v@b              07/24 09:18
+→ chrisnt     : 合一解盤我只服J超，今天拉漲停                     07/24 09:18
+推 joe2        : 你各位小心了，姆努欽昨天說某些股票泡沫了          07/24 09:19
+推 MDM2        : 其實只有我覺得鴻海沒救了嗎??沒技術沒毛利還被分單  07/24 09:19
+推 beforehand  : 不是說好空軍日嗎 給不給點尊重啊                   07/24 09:19
+推 dalyadam    : 元大金廢物= = 想砍了..                            07/24 09:19
+噓 kikilala1234: 技嘉一賣掉就漲哭阿                                07/24 09:19
+推 fasio0808   : 發哥帶你發                                        07/24 09:19
+噓 FirePopcorn : 買2938 歐歐睏                                     07/24 09:19
+推 qqq87112    : 又是拉GG撐盤 12682看來洨英要突破                  07/24 09:19
+推 Trump520    : 今天GG沒大漲應該就是空軍日了                      07/24 09:19
+噓 zaqqaz      : VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV  07/24 09:19
+推 luckysmallsu: 6104好猛賣掉後就噴不停                            07/24 09:20
+推 jacky3838   : 生技第二盤開啟                                    07/24 09:20
+→ LinuxKernel : 發哥嘎鼠人...                                     07/24 09:20
+推 llloo951    : 發哥快700                                         07/24 09:20
+推 somethingwro: 救救2841台開心農場                                07/24 09:20
+推 mopa        : 金融股都廢 廢 很廢                                07/24 09:20
+推 sawaman     : 我一直都覺得鴻海沒救=.=對他能在80以上實在意外     07/24 09:20
+推 jalai       : 4968 燈                                           07/24 09:20
+推 sam2255     : 拉g盤...真難玩                                    07/24 09:20
+→ AN94        : 空軍呢                                            07/24 09:20
+推 luciffar    : 鴻海的對手超多 毛利又低 慘                        07/24 09:20
+推 hiyuy       : 嘉偉老師..還我錢                                  07/24 09:20
+→ sawaman     : 說好的IC回檔下殺呢...                             07/24 09:21
+推 vincent0911x: 死魚出貨盤 = =                                    07/24 09:21
+推 rock8655    : 99持股 想隔日沖不意外變成存股了                   07/24 09:21
+推 romenticpoet: https://i.imgur.com/1ZGzAJy.jpg                   07/24 09:21
+噓 hankami     : 舒服 大部隊準備公園排隊畢業 請繼續加空台積跟發哥  07/24 09:21
+→ Trump520    : GG感覺要出貨了                                    07/24 09:21
+推 etetet      : +～真的被嘎爆耶                                   07/24 09:21
+推 house911    : 2330 2303  ??                                     07/24 09:21
+推 stb         : 只拉台gg能撐多久呢？                              07/24 09:21
+推 fishead1116 : 台股大怒神 結果老師空錯隻QQ                       07/24 09:21
+噓 a9940597    : 台股真的夠垃圾，永遠只漲台積電                    07/24 09:21
+推 transfight  : QQ櫃指……………完惹………                        07/24 09:21
+推 kobekid     : 合一跌到2元all in                                 07/24 09:21
+→ house911    : GG 有夠狂   撐指數                                07/24 09:21
+推 hsuanwei555 : 發哥空軍還好嗎..                                  07/24 09:21
+→ AN94        : 空軍日沒空軍                                      07/24 09:21
+推 qqq87112    : 政府有錢想突破12682                               07/24 09:21
+→ frankie30432: 發哥送分題阿 指標向上 還有人跑去空?               07/24 09:22
+推 fred0755    : 誰叫你不買GG                                      07/24 09:22
+推 sniperlin   : 發哥是台灣特斯拉嗎?空軍打不下來                   07/24 09:22
+噓 henry318    : 998433                                            07/24 09:22
+推 c902112     : 無腦多睏霸數錢                                    07/24 09:22
+推 ter2788     : 台股剩下gg能打而已嗎                              07/24 09:22
+推 lan3695120  : 台股484只剩gg會動                                 07/24 09:22
+噓 YLTYY       : 除了GG以外，都是廢物QQVVVVVVVVVVVVVV              07/24 09:22
+推 memidase    : 聯電也有漲啊                                      07/24 09:22
+噓 qqq5890003  : 出貨啦阿伯                                        07/24 09:22
+噓 PPP720817   : OTC烙賽 大盤紅的??                                07/24 09:22
+噓 mooto       : 厲害了，有種gg拉到400，發哥拉到700                07/24 09:22
+推 kis28519    : 合一不回頭                                        07/24 09:22
+噓 vncss       : 有人空國光生嗎xdd                                 07/24 09:22
+推 yuchin7828  : 2454的空軍...還安好嗎                             07/24 09:22
+推 s155260     : 發哥這週漲快100元: ）                             07/24 09:22
+→ clusis      : 台積電敢390強開盤，主力宣示突破12682決心！        07/24 09:22
+→ luciffar    : VIX也漲 快點買                                    07/24 09:22
+→ PPP720817   : 我有空國光生QQ 爽                                 07/24 09:23
+噓 WolFDragoN  : 給散戶的建議啦，無腦買GG，刪APP，一年後再來看。   07/24 09:23
+噓 VincentZeda : OTC又被生技拉下去啦Q.Q                            07/24 09:23
+→ qqq87112    : 每天喊勞健保破產??                                07/24 09:23
+→ ter2788     : gg真的是台灣特斯拉 空軍都在地上哭                 07/24 09:23
+推 a9940597    : 台股就除了台積電其他都是垃圾                      07/24 09:23
+推 jasd1786    : 等賣壓差不多結束準備爆噴噴                        07/24 09:23
+推 KEDEN       : 生技看起來今天電梯是向下..                        07/24 09:23
+推 SimleToMe   : 合一又南下載客？                                  07/24 09:23
+→ yuchin7828  : 要空就空最強...是誰的名言，看來被擊落了           07/24 09:23
+推 mopa        : 元大金你怎麼了？                                  07/24 09:23
+推 ycsheaven   : 覺得自己什麼跌什麼的人看看買GG會不會跌啊          07/24 09:23
+推 eknbz       : 台灣特斯拉XD  發哥真的要七月七字頭了              07/24 09:24
+推 scofield415 : 美德醫 要噴了                                     07/24 09:24
+推 transfight  : QQ空軍召集令！！！！！殺！殺！殺！                07/24 09:24
+推 almanch     : 2454 要7了                                        07/24 09:24
+→ ter2788     : 合一今天賭的要輸了嗎                              07/24 09:24
+→ vncss       : 畢業不是亂喊的啦.....有空到再說                   07/24 09:24
+推 dalyadam    : 元大金被倒貨了.                                   07/24 09:24
+噓 qscxz       : 這盤不會崩 持股會崩                               07/24 09:24
+→ transfight  : QQ貨倒起來！！！！！！                            07/24 09:24
+→ clusis      : GG 今天看400！                                    07/24 09:24
 
 
 --------------------------------------------------------
@@ -2801,7 +2798,10 @@ Call 12600 Put 12200
 推 gbman       : 能獨霸全球，台GG能技術領先真的關鍵XDD             07/24 09:00
 → sdhpipt     : 像現在一些熱水瓶已經有控制IC了 以前只有電熱線圈   07/24 09:02
 → sdhpipt     : 各種電器現在幾乎都有控制IC 30年前才不是這樣       07/24 09:03
+以後若IoT發展到極致 說不定每個物品上都要搭配感測器及控制IC了
 推 abcd425heart: 之後等每台車都內建5G晶片就知道了                  07/24 09:05
+發展中~
+
 噓 poeoe       : 做品牌又不是完全放棄自我研發能力 蘋果也不是只靠   07/24 09:05
 → poeoe       : 什麼SOC撐起來的                                   07/24 09:05
 → koushimei   : 樓上 APPLE如果用高通搭配android 你覺得如何?       07/24 09:06
@@ -2810,6 +2810,173 @@ Call 12600 Put 12200
 → capssan     : 公司怎麼設計                                      07/24 09:07
 → capssan     : 不然其他代工哪有這樣 你資料給我我就照做 良率好    07/24 09:08
 → capssan     : 產量高就夠了 資料沒有的不關我的事                 07/24 09:08
+※ 編輯: koushimei (59.125.182.141 臺灣), 07/24/2020 09:14:39
+推 craigkhliu  : 對使用者來說，品牌是種信賴感，那代工可以成為品牌  07/24 09:18
+→ craigkhliu  : 的一部份。                                        07/24 09:18
+→ Altair      : 拿個特例並不能代表什麼                            07/24 09:19
+推 Petrovsky   : 十年河東 十年河西                                 07/24 09:20
+噓 poeoe       : 蘋果的成功是IOS和本身強大的工設營造出的品牌形象   07/24 09:21
+→ poeoe       : 再搭配自己SOC才能達成的 不是什麼只靠SOC就能成功   07/24 09:21
+→ poeoe       : 的啦                                              07/24 09:21
+噓 soyghcg     : 有種東西叫破壞式創新                              07/24 09:21
+→ soyghcg     : GG也是在關鍵風口走對路線成功破壞式創新            07/24 09:22
+→ soyghcg     : 如果是更大的躍進如真空三極管被電晶體取代          07/24 09:23
+
+
+--------------------------------------------------------
+
+
+ 作者  OPWing (手槍伯)                                            看板  Stock 
+ 標題  [新聞] Dynavax and Medigen Announce Collabo........                    
+ 時間  Fri Jul 24 09:11:18 2020                                               
+───────────────────────────────────────
+
+
+1.原文連結：
+
+縮址
+https://reurl.cc/9Ej0Wa
+原連結
+https://www.globenewswire.com/news-release/2020/07/23/2066551/0/
+en/Dynavax-and-Medigen-Announce-Collaboration-to-Develop-a-Novel
+-Adjuvanted-COVID-19-Vaccine-Candidate.html
+
+2.原文內容：
+July 23, 2020 08:00 ET | Source: Dynavax Technologies Corporation
+
+Collaboration focused on developing an adjuvanted COVID-19 vaccine using
+Medigen’s subunit vaccine candidate with Dynavax’s CpG 1018
+In preclinical testing, the combination generated strong virus
+neutralizing antibody responses
+Medigen anticipates initiating a Phase 1 clinical trial evaluating the
+combination in September 2020
+
+EMERYVILLE, Calif. and TAPEI, Taiwan, July 23, 2020 (GLOBE NEWSWIRE) --
+Dynavax Technologies Corporation (Nasdaq: DVAX), a biopharmaceutical company
+focused on developing and commercializing novel vaccines, and Medigen Vaccine
+Biologics Corporation (MVC) (TPEx: 6547.TWO), a biopharmaceutical company
+focusing on the development and production of vaccines and biologics, today
+announced their collaboration to develop an adjuvanted vaccine candidate to
+protect against COVID-19. The collaboration is evaluating the combination of
+MVC’s stable prefusion form of the SARS-CoV2 recombinant spike protein with
+Dynavax’s advanced adjuvant CpG 1018  ™, the adjuvant contained in Dynavax’s
+U.S. FDA-approved adult hepatitis B vaccine.
+
+“The COVID-19 pandemic is straining healthcare systems across the globe,
+making a safe, effective and affordable vaccine an important tool in
+combatting the disease and protecting patients, especially for low and
+middle-income countries (LMICs),” said Charles Chen, Chief Executive Officer
+of Medigen. “In preclinical testing, the combination of Dynavax’s proven
+adjuvant with our recombinant spike protein vaccine candidate generated
+strong virus neutralizing antibody responses and cellular immunity. These
+results support advancing evaluation of the combination into Phase 1 human
+testing, which we expect to begin in September of this year.”
+
+“Combining our technology with Medigen’s reinforces the collaborative
+approach needed to address this pandemic,” commented Ryan Spencer, Chief
+Executive Officer of Dynavax. “CpG 1018 is expected to enhance the immune
+response and may play an important role in developing an effective vaccine,
+especially for populations traditionally less responsive to vaccination such
+as older adults who are at greatest risk for severe disease from COVID-19.”
+
+MVC’s subunit vaccine is based on the stable prefusion form of the SARS-CoV2
+recombinant spike protein with global technology license from the U.S Vaccine
+Research Center at National Institutes of Health (NIH). Preclinical studies
+demonstrated that the vaccine candidate adjuvanted with CpG 1018 generated
+strong immune responses in experimental animals.
+
+About Vaccine Adjuvants
+An adjuvant is a pharmacological or immunological agent that modifies the
+effect of other agents. Adjuvants are added to a vaccine to boost the immune
+response to produce more antibodies and longer-lasting immunity, thus
+minimizing the dose of antigen needed. Adjuvants may also be used to enhance
+the efficacy of a vaccine by helping to modify the immune response by
+particular types of immune system cells.
+
+About CpG 1018 Adjuvant
+(Recombinant), Adjuvanted], an adult hepatitis B vaccine approved by the U.S.
+Food and Drug Administration (FDA). Dynavax developed CpG 1018 to provide an
+increased vaccine immune response, which has been demonstrated in HEPLISAV-B.
+In pre-clinical and clinical studies, results demonstrated that the addition
+of CpG 1018 increases antibody concentrations, stimulates helper (CD4+) and
+cytotoxic (CD8+) T cell populations and generates robust T and B cell memory
+responses. Additionally, CpG 1018 strongly favors development of the Th1
+subset of helper T cells, the type of helper T cell that is essential for
+protection from infections with viruses and intracellular bacteria. CpG 1018
+targets a single, well defined receptor (TLR9) expressed on only a few key
+cell types and the mechanisms of action as an adjuvant are quite well
+understood. CpG 1018 provides a well- developed technology and a significant
+safety database, potentially accelerating the development and large-scale
+manufacturing of a COVID-19 vaccine. Upon completion of on-going scale up
+activities, the existing equipment capacity for CpG 1018 will be 600 million
+to 1.2 billion adjuvant doses annually, depending on final dose selected.
+
+About Dynavax
+Dynavax is a commercial stage biopharmaceutical company developing and
+commercializing novel vaccines. The Company launched its first commercial
+product, HEPLISAV-B  
+ [Hepatitis B Vaccine (Recombinant), Adjuvanted], in
+February 2018, following U.S. FDA approval for prevention of infection caused
+by all known subtypes of hepatitis B virus in adults age 18 years and older.
+Dynavax is also advancing CpG 1018 as a premier vaccine adjuvant through
+research collaborations and partnerships. Current collaborations are focused
+on adjuvanted vaccines for COVID-19, pertussis and universal influenza. For
+more information, visit www.dynavax.com and follow the company on LinkedIn.
+
+About Medigen
+MVC is a cell-based biopharmaceutical company focusing on the development and
+production of vaccines and biologics. MVC’s business partners include US
+NIH, US CDC, UCAB, Taiwan CDC, and Taiwan National Health Research Institute.
+MVC’s pipeline includes enterovirus EV71 vaccine, dengue vaccine, influenza
+quadrivalent vaccine which all entered late clinical stage. For more
+information, visit www.medigenvac.com.
+
+About the Novel Coronavirus SARS-CoV-2 (and COVID-19 Disease)
+SARS-CoV-2 is a new coronavirus identified in late 2019 which belongs to a
+family of enveloped RNA viruses that include MERS and SARS, both of which
+caused serious human infections of the respiratory system. The virus causes a
+disease named COVID-19. Since this outbreak was first reported in late 2019,
+the virus has infected over 14.7 million people and has caused over 612,000
+reported deaths (as of July 22, 2020). It has been declared a pandemic by the
+World Health Organization (WHO). Currently there is no vaccine available for
+COVID-19.
+
+Forward-Looking Statements
+This press release contains "forward-looking" statements, including
+statements regarding the potential to develop a COVID-19 vaccine containing
+CpG 1018, and to do so on an accelerated basis. Actual results may differ
+materially from those set forth in this press release due to the risks and
+uncertainties inherent in vaccine research and development, including the
+timing of completing development, whether CpG 1018 combined with MVC’s
+subunit vaccine will prove to be beneficial in clinical trials, whether and
+when the vaccine will be approved for use, and whether sufficient quantities
+of CpG 1018 and of vaccine will be able to be manufactured, as well as other
+risks detailed in the "Risk Factors" section of our Annual Report on Form
+10-K for the fiscal year ended December 31, 2019, as well as discussions of
+potential risks, uncertainties and other important factors in our other
+filings with the U.S. Securities and Exchange Commission. We undertake no
+obligation to revise or update information herein to reflect events or
+circumstances in the future, even if new information becomes available.
+Information on Dynavax's website at www.dynavax.com is not incorporated by
+reference in our current periodic reports with the SEC.
+
+3.心得/評論：
+
+谷哥稍微翻譯過後，看來高端近期可能有些許的利多，參考就好。
+近期疫苗股的確只要有題材，就有漲勢。
+
+--
+╔…………::::       .::::…………══…════─═…………………………╗
+│      ::    ::  ::     ::::   愛                        ︱  ： ：  ︱ ║
+║     ::       愛         ::     一個字                  ☆  ︱ ☆  ： │
+︱     ::::              ::         世界上最短的咒語          ☆     ︱ │
+︱         ::::  ::::::::               誰說誰聽 便如此滿足    by OPWing│
+╚………─═… ∵ ……………………══════════……─…╯……╰…╝
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.163.14.180 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1595553084.A.567.html
+→ oo98560     : 是在講疫苗麻! ok                                  07/24 09:13
 
 
 --------------------------------------------------------
