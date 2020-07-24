@@ -1,170 +1,3 @@
- 作者  switch (pura vita!)                                        看板  Stock 
- 標題  Re: [請益] 台積電夜盤是吃了春藥嗎？                                    
- 時間  Fri Jul 24 23:00:19 2020                                               
-───────────────────────────────────────
-
-※ 引述《meichiang (美江)》之銘言：
-: 現在台gg 夜盤漲幅破10% 這是吃了什麼藥 早盤雖然逆勢上漲但夜盤怎麼怎麼突然衝破天
-: 際 夜盤的指數順拉百點 完全無懼老美老中的對抗 今年是台gg元年嗎？ 下週一 開盤台g
-: g會鎖住漲停嗎？ 大家對夜盤怎麼看
-
-昨天 Q2 eanring call 結束後的 Q&A 有一段:
-
-(完整的transcript 請參考 seekingalpha https://bit.ly/3fXcdl1)
-
-==
-
-Operator
-
-Our next question comes from Ross Seymore with Deutsche Bank.
-
-Ross Seymore
-
-Hi, guys. I’m going to stick with the theme and ask about the 7-nanometer as
-well. I guess, Bob, it’s great to hear that you’re being -- you’re saying
-you’re going to be more pragmatic about internal versus external. But, it
-seems like contingency plan three years down the road is how the external
-option is being treated. I think investors are frustrated with how long this
-execution on manufacturing has happened. Are there steps where instead of
-being a contingency plan, you actually start making the external side the
-primary source before 2023? Obviously on the design side, more than the
-revenue side. And maybe a follow-up, if three to five years down the road,
-the 20-80, 20 external, 80 internal mix, do you think that changes?
-
-Bob Swan
-
-Maybe, I’ll flip those around. Over the last couple of years, we’ve been
-talking about, as we expand our capacity, evaluating more holistically, when
-do we use third-party foundries, rather than do everything ourselves. And we
-call that engaging in the ecosystem in much more holistic ways for a variety
-of different reasons, so we don’t have to build everything ourselves as the
-capital associated with each node becomes a bit higher. So, in general, I
-would say for planning purposes, we’ve been engaging with the ecosystem much
-more. And all else equal, I would expect that roughly 28% to be a little bit
-higher as we focus on growing the business.
-
-==
-而就營運規劃的目的，他們已經開始跟整個生態系統有更多的接觸。如果 Intel 聚焦在
-業務的成長時，委外代工的比例有可能來到 28%。
-
-Intel 財測 2020的營收是 750億美元。如果Intel真的把 28%的業務委外代工，同時仍維
-持 60%的毛利，且"如果"全被台積拿下的話，相當於是一年 84億美元的訂單。猜測這個
-可能性帶來的想像空間，大概是台積 ADR 今晚大漲的原因 (之一)。
-
-
-
-
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.163.235.82 (臺灣)
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1595602822.A.D85.html
-→ dalyadam    : 這還有一個涵義.. 代表intel製造不行了= =           07/24 23:01
-※ 編輯: switch (1.163.235.82 臺灣), 07/24/2020 23:02:39
-推 tsitned     : FAB部分認輸                                       07/24 23:02
-推 Heedictator : 等2022 GG美國廠蓋好 就可以偷了                    07/24 23:02
-→ dalyadam    : 搞不好10年後真的變成台積電教intel QQ              07/24 23:02
-→ Heedictator : 反托拉屎 準備好了                                 07/24 23:03
-推 gabriel     : 2500e 營收算不少吧                                07/24 23:03
-推 leoloveivy  : 一個含義代表 終點要到且沒必要加速了 但我還是歐印  07/24 23:03
-→ leoloveivy  : gg                                                07/24 23:03
-→ Rocker5566  : 代表晶圓製造GG就是1哥                             07/24 23:03
-推 saygogo     : 全球高階CPU的需求在那邊  Intel做不出來那就是台    07/24 23:03
-→ saygogo     : 積電做 總是要有人做                               07/24 23:03
-→ baka1412    : i早就不行了 不然不會一直在那+++++                 07/24 23:04
-→ somanyee    : 大漲就只能說明買單>賣單，且差距不小，原因神馬都`  07/24 23:04
-→ somanyee    : 的                                                07/24 23:04
-推 on32        : 1年84E美元沒有多少 這可是台G EPS約10左右          07/24 23:05
-→ on32        : 等於台G 20->30 EPS 這叫沒多少 直上600了           07/24 23:05
-→ poru        : 相對的三星拿到的話.代工領域就會威脅到GG           07/24 23:05
-推 stosto      : 他要做IC又要顧良率，太難了 直接全委外GG就好了     07/24 23:05
-→ mecca       : 那是訂單又不是毛利                                07/24 23:05
-推 obey1110    : GG好恐怖                                          07/24 23:05
-→ stosto      : 一年84E美元 他的利潤大概40%而已啦                 07/24 23:06
-→ aqlec       : 重點是台GG7nm還吃的下來嗎？                       07/24 23:06
-推 qsef5       : 怎麼有人直接拿收入算eps                           07/24 23:06
-→ on32        : 那算EPS多4塊就好 噴個10%-20%也合理吧              07/24 23:06
-推 saygogo     : 1000億多出來的利潤你跟我說沒什麼                  07/24 23:06
-→ on32        : 台G毛利50% 淨利率40%                              07/24 23:07
-→ stosto      : 而且重點根本不在他下多少訂單 是全部壟斷了         07/24 23:07
-→ stosto      : 我猜GG應該會被告啦 我直接建議GG蓋幾個FAB在美國    07/24 23:07
-→ stosto      : 然後讓這邊工程師去值班，順便領綠卡啦              07/24 23:08
-→ saygogo     : 話說蔡英文政府生的出那麼多電力給台積電用嗎        07/24 23:08
-→ stosto      : intel要下單 AMD要下單 高通要下單                  07/24 23:08
-→ stosto      : 怎麼可能不在美國蓋廠                              07/24 23:08
-→ abyssa1     : 以前都嘴硬繼續燒錢拼 這次態度整個軟掉             07/24 23:08
-→ tsitned     : tsmc風力就足夠了 民間禁止用電                     07/24 23:08
-推 obey1110    : 不算INTEL的訂單台積電400都還不算貴，真的上看500   07/24 23:08
-推 hamel       : 台積ㄔintel單，其他就減少呀                       07/24 23:09
-→ stosto      : 但是勒 我是希望GG代工後，你他媽的intel CPU可以    07/24 23:09
-→ stosto      : 降價嗎                                            07/24 23:09
-→ firemothra  : 反托拉斯法                                        07/24 23:09
-→ stosto      : 可以跟AMD價格拚一下嗎                             07/24 23:09
-推 moike22     : feb的去留也是i皇之後的一個隱憂                    07/24 23:09
-推 dalyadam    : 台積電壟斷->代工價提高-> INTEL成本變貴..          07/24 23:09
-推 mecca       : 綠卡??你要不要看tech板的討論???                   07/24 23:10
-→ dalyadam    : intel降價? XD                                     07/24 23:10
-推 saygogo     : 我看要重啟核四了                                  07/24 23:10
-→ abyssa1     : 而且這個聽起來已經談一陣子了 台積現在最大風險就   07/24 23:11
-→ abyssa1     : 是反壟斷啦 i社是不是在布一個很大的局呢            07/24 23:11
-→ mooto       : 你只要不要在價格上作怪或是用手段去綁客戶 反托拉   07/24 23:12
-推 GniKcol     : 規劃委外的產品是什麼？ 如果是非CPU類產品意義不大  07/24 23:13
-→ mooto       : 斯不會這麼容易成立啦 GG也不是靠合併長大的         07/24 23:13
-推 frankie30432: 還在講電力 你沒電用GG都還有電拉                   07/24 23:13
-→ mooto       : 客戶自願來下單 你能用甚麼方法辦他?                07/24 23:13
-推 littenVenus : 難怪要去美國設廠 美國政府開心GG也不用擔心水電問   07/24 23:14
-→ littenVenus : 題                                                07/24 23:14
-→ abyssa1     : 台積5nm intel還在10nm CPU不找GG只會被AMD打假的    07/24 23:14
-推 iuirigi     : 台灣有兩岸關係 是有風險的 INTEL不放進去評估嗎     07/24 23:15
-→ abyssa1     : 未來頂級CPU是台積製造 intel要認輸還是設計加減賺   07/24 23:15
-推 jc761128    : 84E沒多少？ 是不是不會算數                        07/24 23:17
-→ mooto       : 所以GG廠設在AZ阿 intel下單要調良率 開車出去就到   07/24 23:17
-推 dalyadam    : 這下子美國更有理由出兵保護台灣了 XD               07/24 23:18
-→ jessicaabc99: 84億鎂沒多少？？？                                07/24 23:18
-→ mooto       : 確實也沒多少 GG年營收去年就破兆了                 07/24 23:19
-推 h129875230  : 還在反托拉斯 居居不知道請了多少貴鬆鬆的外國       07/24 23:19
-→ h129875230  : 律師                                              07/24 23:20
-→ mooto       : 你看到一家公司營收成長25% (可能分兩三年)          07/24 23:20
-→ mooto       : 那也不是律師就有用 主要還是你要照規矩走           07/24 23:21
-→ mooto       : google.intel.qcom.ms 這些夠大吧 都被歐洲罰過      07/24 23:22
-推 Swave       : 以前講的兩隻大猩猩陸續敗陣在GG手下...             07/24 23:24
-
-AMD 的價格很有競爭力，且毛利維持的不錯 (>40%)，以 Intel 的定價能力，如果委台積
-代工，未必會犧牲毛利率。
-
-
-推 pushstut    : 歐盟跟鬼一樣，好像沒輸過! ?                       07/24 23:26
-→ mooto       : 不一定 intel良率滿爛的 讓爆肝部隊調一調           07/24 23:27
-推 jerrylin    : 三星又還沒死  哪來的反托拉斯                      07/24 23:27
-推 mikebbb     : 歐印GG                                            07/24 23:27
-→ jerrylin    : 等GG的市占率到9成那被罰一點反托拉斯的錢我也甘願   07/24 23:27
-→ mooto       : 有阿 gg前幾年被gf告過  最後只拿到專利授權         07/24 23:28
-→ mooto       : 反托拉斯不少喔  google被開過43億歐                07/24 23:30
-※ 編輯: switch (1.163.235.82 臺灣), 07/24/2020 23:33:16
-推 iamsofa     : 反托拉斯哪條罪名在gg有成立？是要怎麼用這條罰他？  07/24 23:31
-→ iamsofa     : 目前狀況看起來沒有反托拉斯吧                      07/24 23:32
-推 kevin850717 : 除非7nm再延個至少五年，不然很難想像把Core外包…   07/24 23:38
-→ kevin850717 : 短期內會外包的更可能是PCH、Pentium之類用不到      07/24 23:38
-→ kevin850717 : 最先進製程/低毛利的，再加上要維持毛利，覺得會     07/24 23:38
-→ kevin850717 : 下單給GG是不是有點太樂觀了？                      07/24 23:38
-→ BenJMAS     : 三星還是趕快把買來的EUV機台轉去做記憶體吧，不要   07/24 23:39
-→ BenJMAS     : 繼續在邏輯晶片做燒錢的反抗，反正消費電子跟記憶    07/24 23:39
-→ BenJMAS     : 體就把三爽養到出油了。                            07/24 23:39
-→ kevin850717 : 就像當初AMD也是把IO die留在便宜的GF一樣           07/24 23:40
-→ BenJMAS     : 會踏入邏輯晶片代工都是一場意外。                  07/24 23:40
-→ a68951      : 假設一下就漲了？                                  07/24 23:57
-推 orangemiss  : 台雞產能滿了 謝謝                                 07/24 23:59
-推 redlance    : 台積領先太多，未來換台積擠牙膏XD                  07/25 00:02
-→ newstyle    : 台GG應該趁現在把英特爾吃掉                        07/25 00:24
-→ soyghcg     : 突然傳出GG被收購都不奇怪                          07/25 00:25
-→ soyghcg     : 樹大招風 美國帝國主義鐵拳尻下去救I皇是早晚的      07/25 00:25
-推 missin      : INTEL怕被AMD幹掉，只好這樣走吧QQ                  07/25 00:33
-推 s1an        : 高階CPU i自己做不出來 GG也不見的做的了            07/25 00:40
-推 fucKMT5566  : 你手上那條牙膏擠到發霉惹齁 看看我手上的GG         07/25 03:34
-
-
---------------------------------------------------------
-
-
  作者  mooto (退出會比較好, 就退出)                               看板  Stock 
  標題  Re: [請益] 台積電夜盤是吃了春藥嗎？                                    
  時間  Fri Jul 24 23:04:53 2020                                               
@@ -485,6 +318,7 @@ AMD我沒有說不能買 是沒有必要在那邊龜在那邊陪他 他剛破60�
 → david0605   : 誰敢保證2~30年後會不會吃下晶元代工?               07/25 06:04
 推 david0605   : 他們40多年前還在搞文化大革命咧，現在已經變成世    07/25 06:06
 → david0605   : 界強國了                                          07/25 06:06
+推 herochang   : 連光刻機都沒辦法買怎麼晶圓代工？                  07/25 06:39
 
 
 --------------------------------------------------------
@@ -691,6 +525,7 @@ https://www.cna.com.tw/news/firstnews/202007245006.aspx
 推 TuDu        : 蠢支八為什麼總是覺得自己重要啊??                  07/25 06:21
 → TuDu        : 中國要全面攤牌就把美債賣光啦 拜託                 07/25 06:22
 推 TuDu        : 成都關的好 不然又有王立軍要來很麻煩               07/25 06:23
+→ castjane    : 選舉前本來做什麼都有可能                          07/25 06:47
 
 
 --------------------------------------------------------
@@ -767,6 +602,7 @@ https://www.cna.com.tw/news/firstnews/202007245006.aspx
 → simo520     : 買這隻不如買聯電~真心不騙                         07/25 05:29
 → simo520     : 一樣的錢股利2303股利比世界多~張數也多 空間就大    07/25 05:32
 → simo520     : 且跟台G走向比較同步                               07/25 05:33
+噓 Fizban      : 漲多少了現在才喊                                  07/25 06:48
 
 
 --------------------------------------------------------
@@ -906,6 +742,9 @@ TSM (台積電) 375~385B
 → minazukimaya: 喔對 我忘了沙特阿美IPO了 那第一名要換人啦XD       07/25 03:58
 推 ASG         : 台積電之所以偉大 是靠裡面的台灣人阿 你各位        07/25 06:17
 → ASG         : 如果換成對岸就變成26電了                          07/25 06:18
+推 jfw616      : 台積電無法超越阿里跟騰訊的                        07/25 06:39
+→ jfw616      : 這兩家是看中國的人均收入                          07/25 06:40
+→ jfw616      : 只要在10年人均提高1.5倍..股價也是跟著上           07/25 06:40
 
 
 --------------------------------------------------------
@@ -1595,6 +1434,8 @@ https://reurl.cc/Mval84
 噓 scum5566    : fuck you,閉嘴                                     07/25 06:19
 推 tn601374    : 衰鬼別來啊                                        07/25 06:21
 推 cyr1216     : 完蛋 我相信了...                                  07/25 06:39
+推 a29976137   : 先噴後崩                                          07/25 06:48
+噓 JustaJunk   : 為了台灣大家噓起來                                07/25 06:51
 
 
 --------------------------------------------------------
@@ -1713,6 +1554,48 @@ https://www.youtube.com/watch?v=YNrKJRN0HoU
 推 bakedgrass  : 反串XD                                            07/25 06:13
 推 ter2788     : 都是真的 講法不同                                 07/25 06:16
 → ter2788     : 人民幣確實有到7.3但這一個禮拜又回去7了            07/25 06:17
+→ castjane    : 智育整天看五毛捧 節目風格騙韭菜罷了               07/25 06:44
+
+
+--------------------------------------------------------
+
+
+ 作者  alaskaman (阿拉人)                                         看板  Stock 
+ 標題  [標的] 新光鋼 多                                                       
+ 時間  Sat Jul 25 06:50:42 2020                                               
+───────────────────────────────────────
+
+-------------------------------------------------------------------------
+1.發文前請先詳閱[標的]分類發文規範，未依規範發文將受處份。
+2.發標的文未充實內文，多空理由不充實者，板規1-1-5或4-4處份
+3.進退場機制若非長期投資，請輸入停損價，否則依板規1-1-6處份
+4.若為長期投資，但無充份分析理由，將依板規1-1-5處份
+4.請依格式輸入內容，未依格式者板規1-1-2砍文處份。
+5.分類選填請益或心得者，進退場機制得刪去。
+---------------------按ctrl+y可刪除以上內容。----------------------------
+
+1. 標的：新光鋼2031
+
+2. 分類：多/空/請益/心得
+多 但歡迎大家空看看
+
+3. 分析/正文：
+
+公司派疑似吃貨想做多，但可理解，因公司債券3年期的11月即將到期作轉換，股價必須
+拉高防止現金流出。
+
+基本面：可看到一些新聞開始洗腦下半年獲利可期
+
+
+
+
+
+4. 進退場機制：(非長期投資者，必須有停損機制)
+33塊獲利了結，破24塊出場（比這支好的有很多
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.217.78.85 (臺灣)
+※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1595631044.A.99E.html
 
 
 --------------------------------------------------------
